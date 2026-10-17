@@ -1,0 +1,186 @@
+{
+  "all_prespecified_runs": 33,
+  "prediction_and_metric_checks": [
+    {
+      "model": "Full HTM",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "Full HTM",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "Full HTM",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "Logistic regression",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "Logistic regression",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "Logistic regression",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "CNN",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "CNN",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "CNN",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "LSTM",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "LSTM",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "LSTM",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "Transformer",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "Transformer",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "Transformer",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "Elapsed time only",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "Elapsed time only",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "Elapsed time only",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0.1",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0.1",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0.1",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0.3",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0.3",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "HTM lambda 0.3",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "Without TM",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "Without TM",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "Without TM",
+      "seed": 2026,
+      "passed": true
+    },
+    {
+      "model": "Without SP",
+      "seed": 7,
+      "passed": true
+    },
+    {
+      "model": "Without SP",
+      "seed": 42,
+      "passed": true
+    },
+    {
+      "model": "Without SP",
+      "seed": 2026,
+      "passed": true
+    }
+  ],
+  "participant_disjoint": true,
+  "no_identical_recordings_across_splits": true,
+  "unique_recording_hashes": 185,
+  "within_split_duplicate_groups": [
+    [
+      "D101_1530",
+      "D102_1530"
+    ]
+  ],
+  "test_evaluation_frames": 4636,
+  "encoder_unique_active_bits": {
+    "minimum": 78,
+    "maximum": 84,
+    "mean": 83.1954682388968
+  },
+  "statistical_scope": "Mean and sample SD across three model seeds on one fixed participant split; no significance claim."
+}

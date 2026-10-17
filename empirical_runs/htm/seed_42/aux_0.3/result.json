@@ -1,0 +1,370 @@
+{
+  "model": "HTM auxiliary weight 0.3",
+  "seed": 42,
+  "auxiliary_weight": 0.3,
+  "validation": {
+    "accuracy": 0.6048024012006002,
+    "macro_precision": 0.296856803583126,
+    "macro_recall": 0.333751643271152,
+    "macro_f1": 0.26093848713092904,
+    "probability_mae": 0.19192000799041792,
+    "probability_mse": 0.08894032349874512,
+    "probability_rmse": 0.29822864298847135,
+    "transition_error": 0.5918781725888325,
+    "false_switches_per_minute": 7.394366197183097,
+    "transition_evaluation_frames": 1970,
+    "false_switches": 49,
+    "per_class": {
+      "precision": [
+        0.0,
+        0.5132519983172066,
+        0.0,
+        0.5263157894736842,
+        0.7415730337078652,
+        0.0
+      ],
+      "recall": [
+        0.0,
+        0.9991809991809992,
+        0.0,
+        0.022321428571428572,
+        0.9810074318744839,
+        0.0
+      ],
+      "f1": [
+        0.0,
+        0.6781545302946081,
+        0.0,
+        0.042826552462526764,
+        0.8446498400284393,
+        0.0
+      ],
+      "support": [
+        390,
+        1221,
+        445,
+        448,
+        1211,
+        283
+      ]
+    },
+    "confusion_matrix": [
+      [
+        0,
+        351,
+        0,
+        0,
+        39,
+        0
+      ],
+      [
+        0,
+        1220,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        431,
+        0,
+        9,
+        5,
+        0
+      ],
+      [
+        0,
+        352,
+        0,
+        10,
+        86,
+        0
+      ],
+      [
+        0,
+        23,
+        0,
+        0,
+        1188,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        283,
+        0
+      ]
+    ],
+    "evaluation_frames": 3998,
+    "per_test_subject": {
+      "M": {
+        "macro_f1": 0.26179242959588983
+      },
+      "N": {
+        "macro_f1": 0.25173260349582854
+      },
+      "O": {
+        "macro_f1": 0.26602030782217895
+      },
+      "P": {
+        "macro_f1": 0.2628337589955818
+      }
+    }
+  },
+  "test": {
+    "accuracy": 0.547886108714409,
+    "macro_precision": 0.3088535270225797,
+    "macro_recall": 0.32825838818986147,
+    "macro_f1": 0.2366403267236489,
+    "probability_mae": 0.20603204463776753,
+    "probability_mse": 0.1006600136800985,
+    "probability_rmse": 0.31726962300242123,
+    "transition_error": 0.6001922152811149,
+    "false_switches_per_minute": 8.588531274399237,
+    "transition_evaluation_frames": 2081,
+    "false_switches": 66,
+    "per_class": {
+      "precision": [
+        0.0,
+        0.5110410094637224,
+        0.0,
+        0.75,
+        0.5920801526717557,
+        0.0
+      ],
+      "recall": [
+        0.0,
+        0.9938650306748467,
+        0.0,
+        0.00463678516228748,
+        0.9710485133020345,
+        0.0
+      ],
+      "f1": [
+        0.0,
+        0.675,
+        0.0,
+        0.009216589861751152,
+        0.7356253704801423,
+        0.0
+      ],
+      "support": [
+        410,
+        1304,
+        451,
+        647,
+        1278,
+        546
+      ]
+    },
+    "confusion_matrix": [
+      [
+        0,
+        369,
+        0,
+        0,
+        41,
+        0
+      ],
+      [
+        0,
+        1296,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        385,
+        0,
+        1,
+        65,
+        0
+      ],
+      [
+        0,
+        449,
+        0,
+        3,
+        195,
+        0
+      ],
+      [
+        0,
+        37,
+        0,
+        0,
+        1241,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        546,
+        0
+      ]
+    ],
+    "evaluation_frames": 4636,
+    "per_test_subject": {
+      "Q": {
+        "macro_f1": 0.2430670654756912
+      },
+      "R": {
+        "macro_f1": 0.2307104142469996
+      },
+      "S": {
+        "macro_f1": 0.2329350350892682
+      },
+      "T": {
+        "macro_f1": 0.2415024024206518
+      }
+    }
+  },
+  "readout_training_seconds": 19.481092609999905,
+  "readout_loss_history": [
+    2.067394365690599,
+    1.985278783753349,
+    1.9193798785461138,
+    1.8639556638461854,
+    1.8153121319821226,
+    1.7737989749766923,
+    1.7377074593056785,
+    1.705022386456051,
+    1.6772526343998837,
+    1.6515956495202315,
+    1.6276750598730332,
+    1.6071880479039748,
+    1.5877787012671978,
+    1.5709907781446306,
+    1.5533908143769024,
+    1.5391518213943776,
+    1.5247396404929252,
+    1.5111769402412083,
+    1.4993733356277097,
+    1.487897691379956
+  ],
+  "readout_feature_dimension": 65536,
+  "readout_trainable_parameters": 393222,
+  "runtime": {
+    "python": "3.12.14",
+    "packages": {
+      "numpy": "2.3.5",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.8.0",
+      "torch": "2.5.1+cpu",
+      "ahrs": "0.4.0",
+      "htm": "2.2.0"
+    },
+    "os": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "cpu": "AMD EPYC 9V74 80-Core Processor",
+    "execution_device": "CPU",
+    "protocol_sha256": "771bd2665f91aade936882328cdf85ec9678c222d651caa79cafe961fec9dcaf",
+    "target_workstation_benchmarked": false
+  },
+  "configuration": {
+    "reference_version": "1.0.0",
+    "status": "proposed reference setup; no farmer-data evaluation",
+    "software": {
+      "python": "3.12.14",
+      "numpy": "2.3.5",
+      "scipy": "1.17.0",
+      "htm_version": "2.2.0",
+      "htm_commit": "96309f4969b1488ede172b3eec649dcb9702557d"
+    },
+    "declared_workstation": {
+      "cpu": "Intel Core i9-9900K",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "ram_gb": 32,
+      "execution_device": "CPU",
+      "source": "author-provided hardware; reference not benchmarked on this workstation"
+    },
+    "target_hz": 50.0,
+    "max_gap_seconds": 0.1,
+    "seed": 42,
+    "encoder": {
+      "size_per_component": 512,
+      "activeBits": 21,
+      "resolution": 0.01
+    },
+    "sp": {
+      "inputDimensions": [
+        2048
+      ],
+      "columnDimensions": [
+        2048
+      ],
+      "potentialRadius": 2048,
+      "potentialPct": 0.5,
+      "globalInhibition": true,
+      "localAreaDensity": 0.01953125,
+      "numActiveColumnsPerInhArea": 0,
+      "stimulusThreshold": 0,
+      "synPermInactiveDec": 0.008,
+      "synPermActiveInc": 0.05,
+      "synPermConnected": 0.1,
+      "minPctOverlapDutyCycle": 0.001,
+      "dutyCyclePeriod": 1000,
+      "boostStrength": 0.0,
+      "seed": 42,
+      "spVerbosity": 0,
+      "wrapAround": false
+    },
+    "tm": {
+      "columnDimensions": [
+        2048
+      ],
+      "cellsPerColumn": 32,
+      "activationThreshold": 13,
+      "initialPermanence": 0.21,
+      "connectedPermanence": 0.5,
+      "minThreshold": 10,
+      "maxNewSynapseCount": 20,
+      "permanenceIncrement": 0.1,
+      "permanenceDecrement": 0.1,
+      "predictedSegmentDecrement": 0.0,
+      "seed": 42,
+      "maxSegmentsPerCell": 128,
+      "maxSynapsesPerSegment": 64,
+      "checkInputs": true,
+      "externalPredictiveInputs": 0
+    },
+    "training": {
+      "htm_passes": 3,
+      "readout_epochs": 20,
+      "learning_rate": 0.01,
+      "optimizer": "SGD",
+      "batch_size": 1,
+      "auxiliary_weights": [
+        0.0,
+        0.1,
+        0.3
+      ],
+      "feature_scaling": "active indices divided by active-bit count",
+      "readout": "shared linear softmax for active and predictive TM cells"
+    }
+  },
+  "backbone_training_seconds": 1015.6450810260003,
+  "frozen_feature_extraction_seconds": 27.660902732000068,
+  "validation_auxiliary_selection": [
+    {
+      "alpha": 0.0,
+      "validation_macro_f1": 0.26508750601911635
+    },
+    {
+      "alpha": 0.1,
+      "validation_macro_f1": 0.26386963377840195
+    },
+    {
+      "alpha": 0.3,
+      "validation_macro_f1": 0.26093848713092904
+    }
+  ],
+  "native_backbone_hz": 50,
+  "readout_and_evaluation_hz": 10
+}

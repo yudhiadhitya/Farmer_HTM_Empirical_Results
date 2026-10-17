@@ -1,0 +1,33 @@
+{
+  "output": "/workspace/scratch/f85263915826/empirical_results_output/yudhiadhityaJCISModelBased.docx",
+  "verified_experiments": 33,
+  "english_abstract_words": 164,
+  "indonesian_abstract_words": 168,
+  "native_math_objects": 81,
+  "reference_mapping": {
+    "1": 1,
+    "2": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "12": 10,
+    "16": 11,
+    "18": 12,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17
+  },
+  "corrected_native_equations": [
+    2,
+    12,
+    13,
+    16,
+    18
+  ]
+}
