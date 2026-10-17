@@ -1,0 +1,5100 @@
+{
+  "recordings": [
+    {
+      "index": 0,
+      "clip_id": "A001_1530",
+      "subject": "A",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/A001_1530.csv",
+      "source_sha256": "cca45c8c6d5245ac609aca52e5b63a09b43be3c7de4f3bea2eb32700167b21d3",
+      "native_frames": 453,
+      "evaluation_frames": 91,
+      "duration_seconds": 9.040000000000001,
+      "class_counts_native": [
+        50,
+        154,
+        39,
+        40,
+        127,
+        43
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        8,
+        8,
+        25,
+        9
+      ]
+    },
+    {
+      "index": 1,
+      "clip_id": "A011_1530",
+      "subject": "A",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/A011_1530.csv",
+      "source_sha256": "5b529c827f2cd7933b387b4a752221cc07d0c237720a3f319c3deee617921751",
+      "native_frames": 433,
+      "evaluation_frames": 87,
+      "duration_seconds": 8.64,
+      "class_counts_native": [
+        50,
+        147,
+        39,
+        48,
+        133,
+        16
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        8,
+        9,
+        27,
+        3
+      ]
+    },
+    {
+      "index": 2,
+      "clip_id": "A111_1530",
+      "subject": "A",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/A111_1530.csv",
+      "source_sha256": "c152537e791873f561782bd0223eb976d07452e0c8fed2533cc207186f0b902a",
+      "native_frames": 534,
+      "evaluation_frames": 107,
+      "duration_seconds": 10.66,
+      "class_counts_native": [
+        50,
+        150,
+        53,
+        51,
+        213,
+        17
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        11,
+        10,
+        43,
+        3
+      ]
+    },
+    {
+      "index": 3,
+      "clip_id": "B001_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B001_1530.csv",
+      "source_sha256": "85cb4d1268e24052dc1a064c1bb1e169471a98f1da4bd6732b90748e5f3e2ce9",
+      "native_frames": 524,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.46,
+      "class_counts_native": [
+        50,
+        170,
+        33,
+        59,
+        163,
+        49
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        7,
+        12,
+        32,
+        10
+      ]
+    },
+    {
+      "index": 4,
+      "clip_id": "B002_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B002_1530.csv",
+      "source_sha256": "a4e7bc0a051bc00de0dfef516edf171909f3c1c29f1448f33cd6336efcddc002",
+      "native_frames": 530,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.580000000000002,
+      "class_counts_native": [
+        50,
+        155,
+        45,
+        46,
+        194,
+        40
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        9,
+        10,
+        38,
+        8
+      ]
+    },
+    {
+      "index": 5,
+      "clip_id": "B003_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B003_1530.csv",
+      "source_sha256": "95f18ea3f41a6955331b9dddd5e80db4fae02217010e974756bd7c85addd39fd",
+      "native_frames": 560,
+      "evaluation_frames": 112,
+      "duration_seconds": 11.18,
+      "class_counts_native": [
+        49,
+        190,
+        48,
+        49,
+        188,
+        36
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        10,
+        10,
+        37,
+        7
+      ]
+    },
+    {
+      "index": 6,
+      "clip_id": "B011_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B011_1530.csv",
+      "source_sha256": "7aa4ff46c9491ca535533566c49e84b135c8167cb2fe1055c1c01db6fedb2efb",
+      "native_frames": 538,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.739999999999998,
+      "class_counts_native": [
+        50,
+        173,
+        54,
+        61,
+        152,
+        48
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        11,
+        12,
+        30,
+        10
+      ]
+    },
+    {
+      "index": 7,
+      "clip_id": "B012_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B012_1530.csv",
+      "source_sha256": "3680745d6c447cbf8754a49b6ec795886f746c0f291c8c4076b9f50e588eeaf1",
+      "native_frames": 501,
+      "evaluation_frames": 101,
+      "duration_seconds": 10.0,
+      "class_counts_native": [
+        50,
+        167,
+        49,
+        59,
+        140,
+        36
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        10,
+        11,
+        28,
+        8
+      ]
+    },
+    {
+      "index": 8,
+      "clip_id": "B013_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B013_1530.csv",
+      "source_sha256": "703f5de3f7848b0a6782eeedacea35362164c0e03104ca3787f7cecc003cafc4",
+      "native_frames": 535,
+      "evaluation_frames": 107,
+      "duration_seconds": 10.68,
+      "class_counts_native": [
+        50,
+        178,
+        47,
+        48,
+        148,
+        64
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        9,
+        10,
+        30,
+        12
+      ]
+    },
+    {
+      "index": 9,
+      "clip_id": "B101_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B101_1530.csv",
+      "source_sha256": "740a92241d473920ae7afc18a424bf9d7eeb443ea83fcba4bcc751dbe4f39232",
+      "native_frames": 569,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.36,
+      "class_counts_native": [
+        50,
+        186,
+        37,
+        90,
+        149,
+        57
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        7,
+        18,
+        30,
+        11
+      ]
+    },
+    {
+      "index": 10,
+      "clip_id": "B102_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B102_1530.csv",
+      "source_sha256": "93868f53cbd39ec83dc2daaac10feb1e7509b85e7fab920e3693fceb4699e8a8",
+      "native_frames": 550,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.98,
+      "class_counts_native": [
+        50,
+        160,
+        58,
+        80,
+        164,
+        38
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        12,
+        16,
+        33,
+        7
+      ]
+    },
+    {
+      "index": 11,
+      "clip_id": "B103_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B103_1530.csv",
+      "source_sha256": "ecc7c6943c277e234f9991ff665032b987188056cdcf03a626c5fbde3c7075ac",
+      "native_frames": 565,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.28,
+      "class_counts_native": [
+        49,
+        176,
+        61,
+        57,
+        159,
+        63
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        13,
+        11,
+        32,
+        12
+      ]
+    },
+    {
+      "index": 12,
+      "clip_id": "B111_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B111_1530.csv",
+      "source_sha256": "f2e03206636d5949628ff93933dd7b46168669f6fd4a8ccc4a946932d69a1017",
+      "native_frames": 545,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.879999999999999,
+      "class_counts_native": [
+        50,
+        169,
+        55,
+        63,
+        155,
+        53
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        11,
+        13,
+        31,
+        10
+      ]
+    },
+    {
+      "index": 13,
+      "clip_id": "B113_1530",
+      "subject": "B",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/B113_1530.csv",
+      "source_sha256": "ece6e1e116911c1a6a21617d8e6150fde086d76ada125d83aa5f94b8b71a7248",
+      "native_frames": 548,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.940000000000001,
+      "class_counts_native": [
+        50,
+        176,
+        51,
+        59,
+        162,
+        50
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        10,
+        12,
+        32,
+        10
+      ]
+    },
+    {
+      "index": 14,
+      "clip_id": "C001_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C001_1530.csv",
+      "source_sha256": "b7c41273be9511a1597d0bce7fba8b53c65f7c591ab7ba882f32755f88b34ea2",
+      "native_frames": 777,
+      "evaluation_frames": 156,
+      "duration_seconds": 15.52,
+      "class_counts_native": [
+        50,
+        250,
+        57,
+        68,
+        314,
+        38
+      ],
+      "class_counts_evaluation": [
+        10,
+        50,
+        12,
+        13,
+        63,
+        8
+      ]
+    },
+    {
+      "index": 15,
+      "clip_id": "C002_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C002_1530.csv",
+      "source_sha256": "38ea25944fc46e478fa67e3f5c8a7480ef74326bee7877feaee85e949586875d",
+      "native_frames": 592,
+      "evaluation_frames": 119,
+      "duration_seconds": 11.82,
+      "class_counts_native": [
+        50,
+        189,
+        48,
+        53,
+        220,
+        32
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        10,
+        10,
+        44,
+        7
+      ]
+    },
+    {
+      "index": 16,
+      "clip_id": "C003_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C003_1530.csv",
+      "source_sha256": "db444594792573baa86bdea02781ba84522802b4843179192e33f34c829f1734",
+      "native_frames": 583,
+      "evaluation_frames": 117,
+      "duration_seconds": 11.64,
+      "class_counts_native": [
+        50,
+        186,
+        59,
+        36,
+        223,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        11,
+        8,
+        44,
+        6
+      ]
+    },
+    {
+      "index": 17,
+      "clip_id": "C011_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C011_1530.csv",
+      "source_sha256": "14a5bd35765168b284be437357ac30e86e1b90963efb2c3b3de91b9dd3873e8f",
+      "native_frames": 555,
+      "evaluation_frames": 111,
+      "duration_seconds": 11.08,
+      "class_counts_native": [
+        50,
+        168,
+        62,
+        33,
+        221,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        12,
+        7,
+        44,
+        4
+      ]
+    },
+    {
+      "index": 18,
+      "clip_id": "C012_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C012_1530.csv",
+      "source_sha256": "221bb557bfac8c68bc3f62ae4a6319abaeb233f496c3e4104142eb3739396549",
+      "native_frames": 591,
+      "evaluation_frames": 119,
+      "duration_seconds": 11.8,
+      "class_counts_native": [
+        50,
+        199,
+        68,
+        52,
+        203,
+        19
+      ],
+      "class_counts_evaluation": [
+        10,
+        40,
+        14,
+        10,
+        41,
+        4
+      ]
+    },
+    {
+      "index": 19,
+      "clip_id": "C013_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C013_1530.csv",
+      "source_sha256": "295453ef038129c4c1b5038e7c702ac563292dc9a6fc00a18ca3d054c8b9cab1",
+      "native_frames": 567,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.32,
+      "class_counts_native": [
+        50,
+        176,
+        56,
+        59,
+        204,
+        22
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        11,
+        12,
+        40,
+        5
+      ]
+    },
+    {
+      "index": 20,
+      "clip_id": "C101_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C101_1530.csv",
+      "source_sha256": "ce674c72463a93a3472685ff2dd943f7a0c8d8be60b30cb6445e0c96141bb8a4",
+      "native_frames": 662,
+      "evaluation_frames": 133,
+      "duration_seconds": 13.219999999999999,
+      "class_counts_native": [
+        50,
+        188,
+        58,
+        65,
+        236,
+        65
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        12,
+        13,
+        47,
+        13
+      ]
+    },
+    {
+      "index": 21,
+      "clip_id": "C102_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C102_1530.csv",
+      "source_sha256": "d1327349390dfe702b95c5f4db9858b2119eb5bf57f7e9bc24f19016ee90ebab",
+      "native_frames": 634,
+      "evaluation_frames": 127,
+      "duration_seconds": 12.66,
+      "class_counts_native": [
+        50,
+        183,
+        60,
+        44,
+        242,
+        55
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        12,
+        9,
+        48,
+        11
+      ]
+    },
+    {
+      "index": 22,
+      "clip_id": "C103_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C103_1530.csv",
+      "source_sha256": "2c090624f39a85479f32e2738f2dd6c6ac4d7f14f4f9936a41135470309b37e7",
+      "native_frames": 654,
+      "evaluation_frames": 131,
+      "duration_seconds": 13.060000000000002,
+      "class_counts_native": [
+        50,
+        185,
+        65,
+        56,
+        216,
+        82
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        13,
+        12,
+        43,
+        16
+      ]
+    },
+    {
+      "index": 23,
+      "clip_id": "C111_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C111_1530.csv",
+      "source_sha256": "2a4878928d5a7dae48c5e55970019950b67932e9657867ebb523340cd1db16f9",
+      "native_frames": 619,
+      "evaluation_frames": 124,
+      "duration_seconds": 12.36,
+      "class_counts_native": [
+        49,
+        196,
+        56,
+        57,
+        248,
+        13
+      ],
+      "class_counts_evaluation": [
+        10,
+        39,
+        12,
+        11,
+        50,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "clip_id": "C112_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C112_1530.csv",
+      "source_sha256": "0702887d45e7f5d77ce8de2e5438426b4276fc6b5b14a2b805cc8ea76b4af00b",
+      "native_frames": 539,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.76,
+      "class_counts_native": [
+        50,
+        154,
+        57,
+        90,
+        155,
+        33
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        12,
+        18,
+        31,
+        6
+      ]
+    },
+    {
+      "index": 25,
+      "clip_id": "C113_1530",
+      "subject": "C",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/C113_1530.csv",
+      "source_sha256": "c87d41c2f719d1016bbc985d11dcbd49c28c10f445b5007325e6f48f44043c9a",
+      "native_frames": 598,
+      "evaluation_frames": 120,
+      "duration_seconds": 11.94,
+      "class_counts_native": [
+        50,
+        188,
+        54,
+        61,
+        209,
+        36
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        11,
+        12,
+        42,
+        7
+      ]
+    },
+    {
+      "index": 26,
+      "clip_id": "D001_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D001_1530.csv",
+      "source_sha256": "b62199173b3376620c9501a9d3e86a81b1c99a194a5f9ae9deba060ddad04f72",
+      "native_frames": 580,
+      "evaluation_frames": 116,
+      "duration_seconds": 11.580000000000002,
+      "class_counts_native": [
+        50,
+        176,
+        66,
+        38,
+        190,
+        60
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        13,
+        7,
+        38,
+        12
+      ]
+    },
+    {
+      "index": 27,
+      "clip_id": "D011_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D011_1530.csv",
+      "source_sha256": "944495beda578e2f931fad4ba004f680b1ae7b6c814fadb9d9e49b5e742be632",
+      "native_frames": 593,
+      "evaluation_frames": 119,
+      "duration_seconds": 11.84,
+      "class_counts_native": [
+        50,
+        182,
+        72,
+        50,
+        215,
+        24
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        14,
+        10,
+        43,
+        5
+      ]
+    },
+    {
+      "index": 28,
+      "clip_id": "D012_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D012_1530.csv",
+      "source_sha256": "bed7ebc8630da007130fa6d12e97c41fc8b4357203d76fe3a864d3f9cc384115",
+      "native_frames": 577,
+      "evaluation_frames": 116,
+      "duration_seconds": 11.52,
+      "class_counts_native": [
+        50,
+        165,
+        71,
+        51,
+        210,
+        30
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        15,
+        10,
+        42,
+        6
+      ]
+    },
+    {
+      "index": 29,
+      "clip_id": "D013_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D013_1530.csv",
+      "source_sha256": "91858a293107f979568489803539541ba13b6fe8520ec0c4bf30832a70aa98a4",
+      "native_frames": 542,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.82,
+      "class_counts_native": [
+        50,
+        155,
+        59,
+        65,
+        165,
+        48
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        12,
+        13,
+        33,
+        10
+      ]
+    },
+    {
+      "index": 30,
+      "clip_id": "D101_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D101_1530.csv",
+      "source_sha256": "83c19bd9f2bc3c8aa0d5bfc524558fb090051289690c7f591b2f2593c06e18c5",
+      "native_frames": 642,
+      "evaluation_frames": 129,
+      "duration_seconds": 12.819999999999999,
+      "class_counts_native": [
+        50,
+        179,
+        65,
+        57,
+        208,
+        83
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        13,
+        12,
+        41,
+        17
+      ]
+    },
+    {
+      "index": 31,
+      "clip_id": "D102_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D102_1530.csv",
+      "source_sha256": "83c19bd9f2bc3c8aa0d5bfc524558fb090051289690c7f591b2f2593c06e18c5",
+      "native_frames": 642,
+      "evaluation_frames": 129,
+      "duration_seconds": 12.819999999999999,
+      "class_counts_native": [
+        50,
+        179,
+        65,
+        57,
+        208,
+        83
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        13,
+        12,
+        41,
+        17
+      ]
+    },
+    {
+      "index": 32,
+      "clip_id": "D103_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D103_1530.csv",
+      "source_sha256": "bbd49d28eb82bfb95da9171af22a008c64fcb15202260044a33ea34c6b3d74cc",
+      "native_frames": 596,
+      "evaluation_frames": 120,
+      "duration_seconds": 11.900000000000002,
+      "class_counts_native": [
+        50,
+        182,
+        58,
+        59,
+        195,
+        52
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        11,
+        12,
+        39,
+        11
+      ]
+    },
+    {
+      "index": 33,
+      "clip_id": "D111_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D111_1530.csv",
+      "source_sha256": "023ede95b31b7bca794832ba52fc2351166ce6a9ce2cecf4d4cec11c8d1ab8f7",
+      "native_frames": 582,
+      "evaluation_frames": 117,
+      "duration_seconds": 11.62,
+      "class_counts_native": [
+        50,
+        167,
+        63,
+        54,
+        207,
+        41
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        12,
+        11,
+        42,
+        8
+      ]
+    },
+    {
+      "index": 34,
+      "clip_id": "D112_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D112_1530.csv",
+      "source_sha256": "46d2bd29ad14d73022ccb92c1781ee53e2339455164653cc3521c585735296e5",
+      "native_frames": 598,
+      "evaluation_frames": 120,
+      "duration_seconds": 11.940000000000001,
+      "class_counts_native": [
+        50,
+        165,
+        60,
+        64,
+        204,
+        55
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        12,
+        13,
+        41,
+        11
+      ]
+    },
+    {
+      "index": 35,
+      "clip_id": "D113_1530",
+      "subject": "D",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/D113_1530.csv",
+      "source_sha256": "aadc74b80ce41bf45df7d07e41df5400cf426fa5d12dac4b54cea2d3781b49b9",
+      "native_frames": 587,
+      "evaluation_frames": 118,
+      "duration_seconds": 11.72,
+      "class_counts_native": [
+        50,
+        220,
+        4,
+        69,
+        198,
+        46
+      ],
+      "class_counts_evaluation": [
+        10,
+        44,
+        1,
+        14,
+        40,
+        9
+      ]
+    },
+    {
+      "index": 36,
+      "clip_id": "E001_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E001_1530.csv",
+      "source_sha256": "6cd1579428aef5f251d9edf4baa0761a03186211e45e0f5e0155c4c036d5b168",
+      "native_frames": 520,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.380000000000003,
+      "class_counts_native": [
+        50,
+        184,
+        15,
+        98,
+        123,
+        50
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        3,
+        20,
+        24,
+        10
+      ]
+    },
+    {
+      "index": 37,
+      "clip_id": "E003_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E003_1530.csv",
+      "source_sha256": "11d38f5f01138ae47c50fb734c82eef5476546f519fa613463a7213624a4ff2c",
+      "native_frames": 528,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.54,
+      "class_counts_native": [
+        50,
+        165,
+        25,
+        76,
+        163,
+        49
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        5,
+        16,
+        32,
+        10
+      ]
+    },
+    {
+      "index": 38,
+      "clip_id": "E011_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E011_1530.csv",
+      "source_sha256": "ca1edb0c389809e4541a3529882aedbe1af800df6547644823914ced4e64de1d",
+      "native_frames": 553,
+      "evaluation_frames": 111,
+      "duration_seconds": 11.04,
+      "class_counts_native": [
+        50,
+        157,
+        39,
+        55,
+        223,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        8,
+        11,
+        44,
+        6
+      ]
+    },
+    {
+      "index": 39,
+      "clip_id": "E012_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E012_1530.csv",
+      "source_sha256": "5fce7e4ad04294826c4dd677259e9ee69c41611a9ceb7b456b3fa1a4ad4fb3a0",
+      "native_frames": 523,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.440000000000001,
+      "class_counts_native": [
+        50,
+        155,
+        17,
+        90,
+        180,
+        31
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        4,
+        18,
+        36,
+        6
+      ]
+    },
+    {
+      "index": 40,
+      "clip_id": "E101_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E101_1530.csv",
+      "source_sha256": "35bcd0e171499b6f335b92b36377a5b47abc6c16125cc3062cbded427f65a9be",
+      "native_frames": 496,
+      "evaluation_frames": 100,
+      "duration_seconds": 9.899999999999999,
+      "class_counts_native": [
+        50,
+        162,
+        42,
+        72,
+        118,
+        52
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        8,
+        15,
+        23,
+        11
+      ]
+    },
+    {
+      "index": 41,
+      "clip_id": "E103_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E103_1530.csv",
+      "source_sha256": "4b80e0dde3f937d982f819f5d7fc8e75ff596e109ae0ad19c1c269dfddb181e3",
+      "native_frames": 490,
+      "evaluation_frames": 98,
+      "duration_seconds": 9.780000000000001,
+      "class_counts_native": [
+        50,
+        163,
+        44,
+        57,
+        132,
+        44
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        9,
+        11,
+        27,
+        8
+      ]
+    },
+    {
+      "index": 42,
+      "clip_id": "E111_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E111_1530.csv",
+      "source_sha256": "c25e11f1ddabb31f0c7ec78e0bdcc791ef1a5a2dc439c8998468730bdb307147",
+      "native_frames": 524,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.46,
+      "class_counts_native": [
+        50,
+        151,
+        34,
+        99,
+        174,
+        16
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        6,
+        20,
+        35,
+        3
+      ]
+    },
+    {
+      "index": 43,
+      "clip_id": "E112_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E112_1530.csv",
+      "source_sha256": "b6dd813699f9a4fa90674f889a09740edd9541be4bea8e31a5ee7066fc1ef4f9",
+      "native_frames": 492,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.82,
+      "class_counts_native": [
+        50,
+        110,
+        38,
+        93,
+        172,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        22,
+        8,
+        19,
+        34,
+        6
+      ]
+    },
+    {
+      "index": 44,
+      "clip_id": "E113_1530",
+      "subject": "E",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/E113_1530.csv",
+      "source_sha256": "005c269da20943ad4c85df68c955fec9a36ba7f9ab73f2884513bd944599e0ab",
+      "native_frames": 537,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.72,
+      "class_counts_native": [
+        50,
+        164,
+        56,
+        74,
+        186,
+        7
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        11,
+        15,
+        37,
+        2
+      ]
+    },
+    {
+      "index": 45,
+      "clip_id": "F001_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F001_1530.csv",
+      "source_sha256": "c6fdda29a0b695f218ac3520017a2f5c764ab0939958b3105521894e05b6d801",
+      "native_frames": 529,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.559999999999999,
+      "class_counts_native": [
+        50,
+        153,
+        48,
+        72,
+        151,
+        55
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        10,
+        14,
+        30,
+        11
+      ]
+    },
+    {
+      "index": 46,
+      "clip_id": "F002_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F002_1530.csv",
+      "source_sha256": "8819510209b5e8e25714bc77acc065fd4b9816ace658092e6e251c0aa1a8cd7d",
+      "native_frames": 539,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.76,
+      "class_counts_native": [
+        50,
+        157,
+        28,
+        79,
+        165,
+        60
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        5,
+        16,
+        33,
+        12
+      ]
+    },
+    {
+      "index": 47,
+      "clip_id": "F003_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F003_1530.csv",
+      "source_sha256": "d587303504cbfefcaa762acbf4ab87c31e2a9cf90a4e24aaa3977963d1559f12",
+      "native_frames": 520,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.379999999999999,
+      "class_counts_native": [
+        50,
+        155,
+        52,
+        75,
+        140,
+        48
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        11,
+        15,
+        28,
+        9
+      ]
+    },
+    {
+      "index": 48,
+      "clip_id": "F011_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F011_1530.csv",
+      "source_sha256": "e04473fa0c747c95b75f9531538a5226d2cc02020e2e2ede7db89c7a6a2de729",
+      "native_frames": 550,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.98,
+      "class_counts_native": [
+        50,
+        163,
+        54,
+        77,
+        170,
+        36
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        11,
+        15,
+        34,
+        7
+      ]
+    },
+    {
+      "index": 49,
+      "clip_id": "F012_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F012_1530.csv",
+      "source_sha256": "ab5d86fb546b625367f60108473466c5ba3947e68f36aeb40f1887131b64ea18",
+      "native_frames": 506,
+      "evaluation_frames": 102,
+      "duration_seconds": 10.100000000000001,
+      "class_counts_native": [
+        49,
+        154,
+        56,
+        56,
+        155,
+        36
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        11,
+        11,
+        31,
+        8
+      ]
+    },
+    {
+      "index": 50,
+      "clip_id": "F013_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F013_1530.csv",
+      "source_sha256": "022f7b83c163474245888cb9a21a538e7227e48f037039feda720164e8c64053",
+      "native_frames": 508,
+      "evaluation_frames": 102,
+      "duration_seconds": 10.14,
+      "class_counts_native": [
+        50,
+        143,
+        55,
+        72,
+        158,
+        30
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        11,
+        14,
+        32,
+        6
+      ]
+    },
+    {
+      "index": 51,
+      "clip_id": "F101_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F101_1530.csv",
+      "source_sha256": "78498ab6266bd7af0ed6fe16cd0206d80f2352f7cc02e423a54abf5a502317da",
+      "native_frames": 550,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.98,
+      "class_counts_native": [
+        50,
+        158,
+        65,
+        59,
+        158,
+        60
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        13,
+        12,
+        31,
+        12
+      ]
+    },
+    {
+      "index": 52,
+      "clip_id": "F111_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F111_1530.csv",
+      "source_sha256": "2acec2c0fbcd31faed96a8d14a8a0f0dd261b157ca59dc15708f5b5989226188",
+      "native_frames": 534,
+      "evaluation_frames": 107,
+      "duration_seconds": 10.66,
+      "class_counts_native": [
+        50,
+        143,
+        48,
+        87,
+        142,
+        64
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        10,
+        17,
+        28,
+        13
+      ]
+    },
+    {
+      "index": 53,
+      "clip_id": "F112_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F112_1530.csv",
+      "source_sha256": "2dcea35e5256a149dc8f0b94d7f5b99766c89e0d3c57f051dd69019e96efe854",
+      "native_frames": 563,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.24,
+      "class_counts_native": [
+        50,
+        161,
+        60,
+        79,
+        175,
+        38
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        12,
+        15,
+        35,
+        8
+      ]
+    },
+    {
+      "index": 54,
+      "clip_id": "F113_1530",
+      "subject": "F",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/F113_1530.csv",
+      "source_sha256": "de831b133e797d0663529c32d42eb9dd204b678c9374c2e53f6642ea4dfcdd2d",
+      "native_frames": 547,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.920000000000002,
+      "class_counts_native": [
+        50,
+        159,
+        56,
+        76,
+        147,
+        59
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        11,
+        16,
+        29,
+        12
+      ]
+    },
+    {
+      "index": 55,
+      "clip_id": "G001_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G001_1530.csv",
+      "source_sha256": "bbf247dc248a2f43c16d7448122f6c8c1f56467696ffc1424df57af2dacc8dcb",
+      "native_frames": 470,
+      "evaluation_frames": 94,
+      "duration_seconds": 9.38,
+      "class_counts_native": [
+        50,
+        138,
+        39,
+        60,
+        131,
+        52
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        8,
+        12,
+        26,
+        10
+      ]
+    },
+    {
+      "index": 56,
+      "clip_id": "G002_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G002_1530.csv",
+      "source_sha256": "9a6e7301d703faac169d0c0417a3ab098021a30e8b777134347bcc560cec8a9b",
+      "native_frames": 441,
+      "evaluation_frames": 89,
+      "duration_seconds": 8.8,
+      "class_counts_native": [
+        50,
+        138,
+        36,
+        46,
+        129,
+        42
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        7,
+        9,
+        26,
+        9
+      ]
+    },
+    {
+      "index": 57,
+      "clip_id": "G003_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G003_1530.csv",
+      "source_sha256": "c0d27b1ce6df72e4159ba3e1c0db81e402d68b24681ec99f33972859b1d58e93",
+      "native_frames": 476,
+      "evaluation_frames": 96,
+      "duration_seconds": 9.5,
+      "class_counts_native": [
+        50,
+        142,
+        36,
+        46,
+        145,
+        57
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        7,
+        9,
+        29,
+        12
+      ]
+    },
+    {
+      "index": 58,
+      "clip_id": "G012_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G012_1530.csv",
+      "source_sha256": "659eeb8101f05d6eccc4c19dbca21bf9e115bd49b389ae5da9dd3fed4118e495",
+      "native_frames": 487,
+      "evaluation_frames": 98,
+      "duration_seconds": 9.719999999999999,
+      "class_counts_native": [
+        50,
+        164,
+        40,
+        58,
+        143,
+        32
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        8,
+        12,
+        28,
+        7
+      ]
+    },
+    {
+      "index": 59,
+      "clip_id": "G013_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G013_1530.csv",
+      "source_sha256": "a4266bf3119f3a1ac806e4c9ba5e4e82348db23268823825da76096386f86ba8",
+      "native_frames": 469,
+      "evaluation_frames": 94,
+      "duration_seconds": 9.36,
+      "class_counts_native": [
+        50,
+        164,
+        42,
+        59,
+        137,
+        17
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        9,
+        11,
+        28,
+        3
+      ]
+    },
+    {
+      "index": 60,
+      "clip_id": "G101_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G101_1530.csv",
+      "source_sha256": "d98d242a60fc13d72fd706ebb0b62d7b055c65563839d53573d31aef8eb7b5c2",
+      "native_frames": 465,
+      "evaluation_frames": 93,
+      "duration_seconds": 9.280000000000001,
+      "class_counts_native": [
+        50,
+        137,
+        44,
+        47,
+        131,
+        56
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        9,
+        9,
+        26,
+        11
+      ]
+    },
+    {
+      "index": 61,
+      "clip_id": "G102_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G102_1530.csv",
+      "source_sha256": "4387e557b998845b5d6fe3bdddbfba67561fa3b76f141a69943d026f182d02f8",
+      "native_frames": 448,
+      "evaluation_frames": 90,
+      "duration_seconds": 8.940000000000001,
+      "class_counts_native": [
+        50,
+        134,
+        38,
+        48,
+        129,
+        49
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        8,
+        9,
+        26,
+        10
+      ]
+    },
+    {
+      "index": 62,
+      "clip_id": "G103_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G103_1530.csv",
+      "source_sha256": "b9273bc15017b326e02b6a77a1b9794ec32b9c659bac0f727c6fbee96438167a",
+      "native_frames": 451,
+      "evaluation_frames": 91,
+      "duration_seconds": 9.0,
+      "class_counts_native": [
+        50,
+        124,
+        53,
+        65,
+        99,
+        60
+      ],
+      "class_counts_evaluation": [
+        10,
+        25,
+        11,
+        13,
+        20,
+        12
+      ]
+    },
+    {
+      "index": 63,
+      "clip_id": "G111_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G111_1530.csv",
+      "source_sha256": "88742688cdd42fa430b4ab3692c4c716b8f7c28568214c935e7f051c19d66a86",
+      "native_frames": 501,
+      "evaluation_frames": 101,
+      "duration_seconds": 10.0,
+      "class_counts_native": [
+        50,
+        144,
+        64,
+        63,
+        151,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        13,
+        13,
+        30,
+        6
+      ]
+    },
+    {
+      "index": 64,
+      "clip_id": "G112_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G112_1530.csv",
+      "source_sha256": "e9e00ccc8b2dfffa5ee2b663543c425b76d66dc40735a57d3a2711a950d3630d",
+      "native_frames": 481,
+      "evaluation_frames": 97,
+      "duration_seconds": 9.6,
+      "class_counts_native": [
+        49,
+        158,
+        46,
+        57,
+        140,
+        31
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        9,
+        11,
+        28,
+        7
+      ]
+    },
+    {
+      "index": 65,
+      "clip_id": "G113_1530",
+      "subject": "G",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/G113_1530.csv",
+      "source_sha256": "e32e1a9f35afa86158993f5d043b63594968134ec0b68da0c0c60d2f52db968b",
+      "native_frames": 448,
+      "evaluation_frames": 90,
+      "duration_seconds": 8.940000000000001,
+      "class_counts_native": [
+        49,
+        160,
+        39,
+        49,
+        130,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        8,
+        10,
+        26,
+        4
+      ]
+    },
+    {
+      "index": 66,
+      "clip_id": "H001_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H001_1530.csv",
+      "source_sha256": "9b3c0303c6cd1aa82e523eda88041df6c1f75dbf3df7b75b206b28e15636f85a",
+      "native_frames": 535,
+      "evaluation_frames": 107,
+      "duration_seconds": 10.68,
+      "class_counts_native": [
+        50,
+        177,
+        56,
+        48,
+        160,
+        44
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        11,
+        10,
+        32,
+        8
+      ]
+    },
+    {
+      "index": 67,
+      "clip_id": "H002_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H002_1530.csv",
+      "source_sha256": "55adc65daf86d4f272906682a506a531094a6ef2268a7d4eb2ffa826cc065f43",
+      "native_frames": 540,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.78,
+      "class_counts_native": [
+        50,
+        172,
+        44,
+        66,
+        168,
+        40
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        9,
+        13,
+        33,
+        8
+      ]
+    },
+    {
+      "index": 68,
+      "clip_id": "H003_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H003_1530.csv",
+      "source_sha256": "8ec5afb569b8b704647357bf68ed2ca4311b37250dbd98a1f16c0b591571ab0e",
+      "native_frames": 565,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.28,
+      "class_counts_native": [
+        50,
+        182,
+        50,
+        90,
+        167,
+        26
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        10,
+        18,
+        33,
+        5
+      ]
+    },
+    {
+      "index": 69,
+      "clip_id": "H011_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H011_1530.csv",
+      "source_sha256": "9a26b676aed96455bf69e08a1192ff3f60e599525a69259bc1ba0910d80c396e",
+      "native_frames": 549,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.959999999999999,
+      "class_counts_native": [
+        50,
+        173,
+        61,
+        65,
+        161,
+        39
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        12,
+        13,
+        32,
+        8
+      ]
+    },
+    {
+      "index": 70,
+      "clip_id": "H012_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H012_1530.csv",
+      "source_sha256": "ae5a455e4e60a2999e5a9217ad15fe055cc7a54329ab27f6db3140e7e7d84672",
+      "native_frames": 591,
+      "evaluation_frames": 119,
+      "duration_seconds": 11.8,
+      "class_counts_native": [
+        50,
+        186,
+        44,
+        84,
+        209,
+        18
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        8,
+        17,
+        42,
+        4
+      ]
+    },
+    {
+      "index": 71,
+      "clip_id": "H013_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H013_1530.csv",
+      "source_sha256": "861aefd6ad1d7d5a46bfb3e596bd847baa2b2e734f376a49a194ee7a6f264a44",
+      "native_frames": 556,
+      "evaluation_frames": 112,
+      "duration_seconds": 11.1,
+      "class_counts_native": [
+        49,
+        172,
+        58,
+        78,
+        174,
+        25
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        11,
+        16,
+        35,
+        5
+      ]
+    },
+    {
+      "index": 72,
+      "clip_id": "H101_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H101_1530.csv",
+      "source_sha256": "61883064ec1bc42474ca63294e562dc72b81f9489de49140ee3240265bc2550b",
+      "native_frames": 547,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.920000000000002,
+      "class_counts_native": [
+        50,
+        180,
+        55,
+        71,
+        150,
+        41
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        11,
+        15,
+        30,
+        8
+      ]
+    },
+    {
+      "index": 73,
+      "clip_id": "H102_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H102_1530.csv",
+      "source_sha256": "8fd7b2237fdd0b7c600ac04287b9538587b9159ee9d0beaf7cdfd8cde606d537",
+      "native_frames": 575,
+      "evaluation_frames": 115,
+      "duration_seconds": 11.48,
+      "class_counts_native": [
+        49,
+        166,
+        84,
+        58,
+        187,
+        31
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        17,
+        12,
+        37,
+        6
+      ]
+    },
+    {
+      "index": 74,
+      "clip_id": "H111_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H111_1530.csv",
+      "source_sha256": "fdb78a829170816065cff7ac7d5de7e07ce2211682af0a2aa2cfc58003764f2a",
+      "native_frames": 615,
+      "evaluation_frames": 123,
+      "duration_seconds": 12.280000000000001,
+      "class_counts_native": [
+        50,
+        184,
+        54,
+        88,
+        179,
+        60
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        11,
+        18,
+        35,
+        12
+      ]
+    },
+    {
+      "index": 75,
+      "clip_id": "H112_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H112_1530.csv",
+      "source_sha256": "439e77b31dce23e540d2c10041d794a6fe919d6c962767c585b76d21fd00fce6",
+      "native_frames": 550,
+      "evaluation_frames": 110,
+      "duration_seconds": 10.979999999999999,
+      "class_counts_native": [
+        50,
+        178,
+        43,
+        85,
+        156,
+        38
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        9,
+        17,
+        31,
+        7
+      ]
+    },
+    {
+      "index": 76,
+      "clip_id": "H113_1530",
+      "subject": "H",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/H113_1530.csv",
+      "source_sha256": "8a12d053898121bbb297bb74960b9343a61c3dd24efa954c9225174550cc587c",
+      "native_frames": 566,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.3,
+      "class_counts_native": [
+        50,
+        159,
+        58,
+        109,
+        147,
+        43
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        12,
+        22,
+        29,
+        9
+      ]
+    },
+    {
+      "index": 77,
+      "clip_id": "I001_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I001_1530.csv",
+      "source_sha256": "ab84493b57ef8a7fa683f11cef59781b3369c8c67d90195534c2a7da29c4ea3e",
+      "native_frames": 493,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.84,
+      "class_counts_native": [
+        50,
+        151,
+        53,
+        70,
+        129,
+        40
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        10,
+        14,
+        26,
+        8
+      ]
+    },
+    {
+      "index": 78,
+      "clip_id": "I002_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I002_1530.csv",
+      "source_sha256": "fc2109c66fdeadba379dc7c16e12701f372d101bd01fb76f1987e875dbb7a577",
+      "native_frames": 562,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.219999999999999,
+      "class_counts_native": [
+        50,
+        163,
+        79,
+        39,
+        181,
+        50
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        16,
+        8,
+        36,
+        10
+      ]
+    },
+    {
+      "index": 79,
+      "clip_id": "I011_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I011_1530.csv",
+      "source_sha256": "0c714168cab4f23291f6f9b783c6f7f440bd789770b9d75099183ca076666ae0",
+      "native_frames": 516,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.3,
+      "class_counts_native": [
+        50,
+        156,
+        79,
+        61,
+        145,
+        25
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        15,
+        13,
+        29,
+        5
+      ]
+    },
+    {
+      "index": 80,
+      "clip_id": "I012_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I012_1530.csv",
+      "source_sha256": "4978476ee9e25d68d5cc7b1cdfee29632615c2c738535df84a43a8c77596d840",
+      "native_frames": 504,
+      "evaluation_frames": 101,
+      "duration_seconds": 10.059999999999999,
+      "class_counts_native": [
+        50,
+        161,
+        54,
+        70,
+        146,
+        23
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        10,
+        14,
+        30,
+        4
+      ]
+    },
+    {
+      "index": 81,
+      "clip_id": "I013_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I013_1530.csv",
+      "source_sha256": "501d75fb40ed58a2100c83e7067e3dd8dbabd01da153e1c731d547fb85c4c022",
+      "native_frames": 491,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.799999999999997,
+      "class_counts_native": [
+        50,
+        131,
+        41,
+        72,
+        155,
+        42
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        8,
+        14,
+        31,
+        9
+      ]
+    },
+    {
+      "index": 82,
+      "clip_id": "I101_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I101_1530.csv",
+      "source_sha256": "4aff78ac027c202f85d4957f169842cde767ff9697d736816463a0589918fcee",
+      "native_frames": 513,
+      "evaluation_frames": 103,
+      "duration_seconds": 10.24,
+      "class_counts_native": [
+        50,
+        139,
+        68,
+        64,
+        145,
+        47
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        14,
+        13,
+        29,
+        9
+      ]
+    },
+    {
+      "index": 83,
+      "clip_id": "I102_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I102_1530.csv",
+      "source_sha256": "497c729006c64e99b2ec507cbe2306857de1b37fb497d7a973a16c9baa4a090f",
+      "native_frames": 522,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.419999999999998,
+      "class_counts_native": [
+        50,
+        165,
+        38,
+        79,
+        154,
+        36
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        8,
+        16,
+        31,
+        7
+      ]
+    },
+    {
+      "index": 84,
+      "clip_id": "I111_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I111_1530.csv",
+      "source_sha256": "686e3210a053d9a01ea83e07cb04edb5c51790f3f60dc962a02b7f0ce8acbb24",
+      "native_frames": 563,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.24,
+      "class_counts_native": [
+        50,
+        183,
+        66,
+        63,
+        156,
+        45
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        13,
+        13,
+        31,
+        9
+      ]
+    },
+    {
+      "index": 85,
+      "clip_id": "I112_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I112_1530.csv",
+      "source_sha256": "9a66c9719a877cd11bba022a8da3a5a35a020494bb5b37fe7e730ff3480da697",
+      "native_frames": 539,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.76,
+      "class_counts_native": [
+        50,
+        178,
+        70,
+        57,
+        156,
+        28
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        14,
+        11,
+        32,
+        5
+      ]
+    },
+    {
+      "index": 86,
+      "clip_id": "I113_1530",
+      "subject": "I",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/I113_1530.csv",
+      "source_sha256": "dc5af863f0586413555d1f061ae48c7673aad2355cebd6865a2a65898822bb51",
+      "native_frames": 557,
+      "evaluation_frames": 112,
+      "duration_seconds": 11.120000000000001,
+      "class_counts_native": [
+        50,
+        164,
+        59,
+        95,
+        168,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        12,
+        19,
+        34,
+        4
+      ]
+    },
+    {
+      "index": 87,
+      "clip_id": "J002_1530",
+      "subject": "J",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/J002_1530.csv",
+      "source_sha256": "ff9188b3d942f6bfe7407841124d367f48bcf39cec981e253487bd3ebf1c1a9f",
+      "native_frames": 637,
+      "evaluation_frames": 128,
+      "duration_seconds": 12.72,
+      "class_counts_native": [
+        50,
+        201,
+        41,
+        91,
+        214,
+        40
+      ],
+      "class_counts_evaluation": [
+        10,
+        41,
+        8,
+        18,
+        43,
+        8
+      ]
+    },
+    {
+      "index": 88,
+      "clip_id": "J003_1530",
+      "subject": "J",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/J003_1530.csv",
+      "source_sha256": "5856983a453df206f0734dbefc3ff341fe2cc2ba7e65f022f8f81c480e969a23",
+      "native_frames": 677,
+      "evaluation_frames": 136,
+      "duration_seconds": 13.52,
+      "class_counts_native": [
+        49,
+        205,
+        74,
+        71,
+        218,
+        60
+      ],
+      "class_counts_evaluation": [
+        10,
+        41,
+        15,
+        14,
+        44,
+        12
+      ]
+    },
+    {
+      "index": 89,
+      "clip_id": "J012_1530",
+      "subject": "J",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/J012_1530.csv",
+      "source_sha256": "f20f36f395c6eb5b7660c00e88d2bad6744d7285cdb5e5ab4e067455339b20cd",
+      "native_frames": 605,
+      "evaluation_frames": 121,
+      "duration_seconds": 12.08,
+      "class_counts_native": [
+        50,
+        199,
+        70,
+        56,
+        214,
+        16
+      ],
+      "class_counts_evaluation": [
+        10,
+        40,
+        14,
+        11,
+        43,
+        3
+      ]
+    },
+    {
+      "index": 90,
+      "clip_id": "J013_1530",
+      "subject": "J",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/J013_1530.csv",
+      "source_sha256": "a2e7340a91438f63a58e664f6e9162503a0819155686069979ecd600c785e8ae",
+      "native_frames": 604,
+      "evaluation_frames": 121,
+      "duration_seconds": 12.059999999999999,
+      "class_counts_native": [
+        50,
+        204,
+        55,
+        79,
+        197,
+        19
+      ],
+      "class_counts_evaluation": [
+        10,
+        41,
+        11,
+        16,
+        39,
+        4
+      ]
+    },
+    {
+      "index": 91,
+      "clip_id": "J111_1530",
+      "subject": "J",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/J111_1530.csv",
+      "source_sha256": "c6ee7ee9e60c4e09e09ab3beeedce800842b6cce79aa73a2bace953c9817a4e0",
+      "native_frames": 665,
+      "evaluation_frames": 133,
+      "duration_seconds": 13.279999999999998,
+      "class_counts_native": [
+        50,
+        214,
+        75,
+        103,
+        197,
+        26
+      ],
+      "class_counts_evaluation": [
+        10,
+        43,
+        15,
+        21,
+        39,
+        5
+      ]
+    },
+    {
+      "index": 92,
+      "clip_id": "J112_1530",
+      "subject": "J",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/J112_1530.csv",
+      "source_sha256": "e765556bdeafb7475a7846915765937f92680fc77bff24189816d2c62582785e",
+      "native_frames": 671,
+      "evaluation_frames": 135,
+      "duration_seconds": 13.400000000000002,
+      "class_counts_native": [
+        50,
+        209,
+        81,
+        113,
+        197,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        42,
+        16,
+        23,
+        39,
+        5
+      ]
+    },
+    {
+      "index": 93,
+      "clip_id": "K002_1530",
+      "subject": "K",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/K002_1530.csv",
+      "source_sha256": "b474a5647e4cd73af69b9d9263f4ee3fdeba5f9b6d0dcd71e8c0efe324bca08c",
+      "native_frames": 493,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.84,
+      "class_counts_native": [
+        50,
+        148,
+        59,
+        48,
+        157,
+        31
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        12,
+        9,
+        32,
+        6
+      ]
+    },
+    {
+      "index": 94,
+      "clip_id": "K003_1530",
+      "subject": "K",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/K003_1530.csv",
+      "source_sha256": "d498cbca7b90ea044db094ea416ae0bf7418dbad110f48723b9b666be30b1441",
+      "native_frames": 518,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.34,
+      "class_counts_native": [
+        50,
+        136,
+        50,
+        63,
+        152,
+        67
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        10,
+        12,
+        31,
+        13
+      ]
+    },
+    {
+      "index": 95,
+      "clip_id": "K012_1530",
+      "subject": "K",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/K012_1530.csv",
+      "source_sha256": "bf3b8fa1ac1fa15ca874262fb529c638d5b690713e0a01d37b1c06c72e706c7b",
+      "native_frames": 513,
+      "evaluation_frames": 103,
+      "duration_seconds": 10.239999999999998,
+      "class_counts_native": [
+        50,
+        154,
+        62,
+        46,
+        169,
+        32
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        13,
+        9,
+        34,
+        6
+      ]
+    },
+    {
+      "index": 96,
+      "clip_id": "K102_1530",
+      "subject": "K",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/K102_1530.csv",
+      "source_sha256": "f572b171c0d65ce044ea102cd436cffa9b9fb3c6005d45d523d4da16a742a732",
+      "native_frames": 524,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.459999999999997,
+      "class_counts_native": [
+        50,
+        140,
+        52,
+        84,
+        122,
+        76
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        11,
+        17,
+        24,
+        15
+      ]
+    },
+    {
+      "index": 97,
+      "clip_id": "K112_1530",
+      "subject": "K",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/K112_1530.csv",
+      "source_sha256": "9a2b461a791c86508f71275912d45ac2797bdb280e29e41b52f7d592002176df",
+      "native_frames": 441,
+      "evaluation_frames": 89,
+      "duration_seconds": 8.8,
+      "class_counts_native": [
+        50,
+        126,
+        57,
+        65,
+        125,
+        18
+      ],
+      "class_counts_evaluation": [
+        10,
+        26,
+        11,
+        13,
+        25,
+        4
+      ]
+    },
+    {
+      "index": 98,
+      "clip_id": "K113_1530",
+      "subject": "K",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/K113_1530.csv",
+      "source_sha256": "ccb75966584c96ef30476df46a750bdf1ccc6e5fa9dddb4daaf7b837bd5fc28c",
+      "native_frames": 487,
+      "evaluation_frames": 98,
+      "duration_seconds": 9.719999999999999,
+      "class_counts_native": [
+        50,
+        152,
+        39,
+        71,
+        152,
+        23
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        8,
+        14,
+        30,
+        5
+      ]
+    },
+    {
+      "index": 99,
+      "clip_id": "L001_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L001_1530.csv",
+      "source_sha256": "9aab197e8102a37bab46d1888f748041fdc2949df0873953aa6000d090684ba0",
+      "native_frames": 469,
+      "evaluation_frames": 94,
+      "duration_seconds": 9.360000000000001,
+      "class_counts_native": [
+        49,
+        146,
+        41,
+        53,
+        150,
+        30
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        9,
+        10,
+        30,
+        6
+      ]
+    },
+    {
+      "index": 100,
+      "clip_id": "L003_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L003_1530.csv",
+      "source_sha256": "f9fce78ab24b8d3f73feb03f1359ef0a188ba1d969198fd46d240d28b20f5a7d",
+      "native_frames": 461,
+      "evaluation_frames": 93,
+      "duration_seconds": 9.2,
+      "class_counts_native": [
+        50,
+        141,
+        51,
+        47,
+        128,
+        44
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        10,
+        9,
+        26,
+        9
+      ]
+    },
+    {
+      "index": 101,
+      "clip_id": "L011_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L011_1530.csv",
+      "source_sha256": "5558ce894022acb6c1ca60692cf0a62831a1568b592e73a801d53eee642ac3bd",
+      "native_frames": 471,
+      "evaluation_frames": 95,
+      "duration_seconds": 9.399999999999999,
+      "class_counts_native": [
+        50,
+        144,
+        44,
+        58,
+        106,
+        69
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        9,
+        12,
+        21,
+        14
+      ]
+    },
+    {
+      "index": 102,
+      "clip_id": "L012_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L012_1530.csv",
+      "source_sha256": "c5f83c2c95dff45789f5c6ddd459edcd3e0a9a89ed91a659573762c72bb69a9b",
+      "native_frames": 472,
+      "evaluation_frames": 95,
+      "duration_seconds": 9.420000000000002,
+      "class_counts_native": [
+        50,
+        150,
+        59,
+        47,
+        144,
+        22
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        12,
+        10,
+        28,
+        5
+      ]
+    },
+    {
+      "index": 103,
+      "clip_id": "L101_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L101_1530.csv",
+      "source_sha256": "b7afd03b59700d009295599cf1d9794290d0a825f10a7377cacbf23397b83d3a",
+      "native_frames": 529,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.559999999999999,
+      "class_counts_native": [
+        50,
+        157,
+        58,
+        68,
+        124,
+        72
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        11,
+        14,
+        25,
+        14
+      ]
+    },
+    {
+      "index": 104,
+      "clip_id": "L102_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L102_1530.csv",
+      "source_sha256": "a8ff7bc37430ec21ca321f71a03251c793a8625fba4a5d9910b08b3ed73cd829",
+      "native_frames": 512,
+      "evaluation_frames": 103,
+      "duration_seconds": 10.219999999999999,
+      "class_counts_native": [
+        50,
+        137,
+        45,
+        94,
+        102,
+        84
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        9,
+        19,
+        20,
+        17
+      ]
+    },
+    {
+      "index": 105,
+      "clip_id": "L103_1530",
+      "subject": "L",
+      "split": "train",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/L103_1530.csv",
+      "source_sha256": "577fd858f98544c3285fc00e43954705c2cfdfafa3e8015de03ed9961dec39f4",
+      "native_frames": 526,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.5,
+      "class_counts_native": [
+        50,
+        134,
+        60,
+        62,
+        150,
+        70
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        12,
+        13,
+        30,
+        14
+      ]
+    },
+    {
+      "index": 106,
+      "clip_id": "M001_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M001_1530.csv",
+      "source_sha256": "819601e1a3f33983b4e18a96362756d6a234a60d6c1616c8964ae9cccc790f1c",
+      "native_frames": 545,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.879999999999999,
+      "class_counts_native": [
+        50,
+        169,
+        71,
+        34,
+        164,
+        57
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        14,
+        7,
+        33,
+        11
+      ]
+    },
+    {
+      "index": 107,
+      "clip_id": "M002_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M002_1530.csv",
+      "source_sha256": "58a48406d701a750f08c1819152704745d3d66ad443c62a6d729d71351af4508",
+      "native_frames": 519,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.36,
+      "class_counts_native": [
+        50,
+        171,
+        64,
+        38,
+        155,
+        41
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        12,
+        8,
+        31,
+        8
+      ]
+    },
+    {
+      "index": 108,
+      "clip_id": "M012_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M012_1530.csv",
+      "source_sha256": "2f9dfa6aeaffe06ef8bb1cb0b8b818da0ea9fb4c46771789ac62b0ed22534b7f",
+      "native_frames": 479,
+      "evaluation_frames": 96,
+      "duration_seconds": 9.559999999999999,
+      "class_counts_native": [
+        50,
+        156,
+        53,
+        62,
+        137,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        10,
+        13,
+        27,
+        4
+      ]
+    },
+    {
+      "index": 109,
+      "clip_id": "M013_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M013_1530.csv",
+      "source_sha256": "c45ca81099fbfbf842eb613e5ac0ba6a2f9b2ce3ddb154f45344f9bf729c4928",
+      "native_frames": 495,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.879999999999999,
+      "class_counts_native": [
+        50,
+        167,
+        52,
+        61,
+        144,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        10,
+        12,
+        29,
+        4
+      ]
+    },
+    {
+      "index": 110,
+      "clip_id": "M101_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M101_1530.csv",
+      "source_sha256": "0ed78ec4e874c8ad269d207ec102f97967b401bded2fe28b2bd395083d8357c7",
+      "native_frames": 524,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.459999999999997,
+      "class_counts_native": [
+        50,
+        168,
+        50,
+        57,
+        154,
+        45
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        10,
+        11,
+        31,
+        9
+      ]
+    },
+    {
+      "index": 111,
+      "clip_id": "M102_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M102_1530.csv",
+      "source_sha256": "d7f0e8c3114105ccfb6c138c0d19dea51bd93e96605c22bea62d309782829e94",
+      "native_frames": 518,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.34,
+      "class_counts_native": [
+        49,
+        160,
+        59,
+        43,
+        157,
+        50
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        12,
+        9,
+        31,
+        10
+      ]
+    },
+    {
+      "index": 112,
+      "clip_id": "M103_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M103_1530.csv",
+      "source_sha256": "45c1565082eb487e578f2850111ea46124052c46d193120a300d940a43c6b3ae",
+      "native_frames": 535,
+      "evaluation_frames": 107,
+      "duration_seconds": 10.68,
+      "class_counts_native": [
+        50,
+        171,
+        57,
+        60,
+        133,
+        64
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        11,
+        12,
+        27,
+        12
+      ]
+    },
+    {
+      "index": 113,
+      "clip_id": "M111_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M111_1530.csv",
+      "source_sha256": "8c453f10cda21eb3a02b5b0fa1721f40c2b7bdef195774f9aa39bea951a9c0b1",
+      "native_frames": 515,
+      "evaluation_frames": 103,
+      "duration_seconds": 10.28,
+      "class_counts_native": [
+        50,
+        158,
+        59,
+        58,
+        151,
+        39
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        12,
+        11,
+        31,
+        7
+      ]
+    },
+    {
+      "index": 114,
+      "clip_id": "M112_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M112_1530.csv",
+      "source_sha256": "5c16fdcc9f2e6ac82015eccdcb4ae75d00a1240606be4bab4d42f8df859f5259",
+      "native_frames": 517,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.319999999999999,
+      "class_counts_native": [
+        50,
+        161,
+        55,
+        76,
+        136,
+        39
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        11,
+        15,
+        27,
+        8
+      ]
+    },
+    {
+      "index": 115,
+      "clip_id": "M113_1530",
+      "subject": "M",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/M113_1530.csv",
+      "source_sha256": "fddad4709d4061ece20b60238993176f09ce218eb45799dd90d43af2fc102e3a",
+      "native_frames": 499,
+      "evaluation_frames": 100,
+      "duration_seconds": 9.96,
+      "class_counts_native": [
+        50,
+        160,
+        51,
+        57,
+        142,
+        39
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        11,
+        11,
+        28,
+        8
+      ]
+    },
+    {
+      "index": 116,
+      "clip_id": "N001_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N001_1530.csv",
+      "source_sha256": "908003ab98f2f6affd907de2a6f4cbaf7880d20dba87915e3818718c1558e9fb",
+      "native_frames": 476,
+      "evaluation_frames": 96,
+      "duration_seconds": 9.5,
+      "class_counts_native": [
+        50,
+        134,
+        65,
+        43,
+        139,
+        45
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        13,
+        9,
+        28,
+        9
+      ]
+    },
+    {
+      "index": 117,
+      "clip_id": "N011_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N011_1530.csv",
+      "source_sha256": "9f4b17df4f3e9633c7ec080106685d26807eedcd1240683bc73fd32695e0774c",
+      "native_frames": 417,
+      "evaluation_frames": 84,
+      "duration_seconds": 8.32,
+      "class_counts_native": [
+        50,
+        132,
+        53,
+        52,
+        100,
+        30
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        10,
+        11,
+        20,
+        6
+      ]
+    },
+    {
+      "index": 118,
+      "clip_id": "N012_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N012_1530.csv",
+      "source_sha256": "e0eb4c019b60e598d4ffe98d060d9122dca9151cbed136d22c1d37f900d97557",
+      "native_frames": 409,
+      "evaluation_frames": 82,
+      "duration_seconds": 8.16,
+      "class_counts_native": [
+        50,
+        129,
+        40,
+        61,
+        104,
+        25
+      ],
+      "class_counts_evaluation": [
+        10,
+        26,
+        8,
+        12,
+        21,
+        5
+      ]
+    },
+    {
+      "index": 119,
+      "clip_id": "N013_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N013_1530.csv",
+      "source_sha256": "12df6152bc332cd2b4972d5801492f868173df828dba5afe2c59b1746e457570",
+      "native_frames": 405,
+      "evaluation_frames": 81,
+      "duration_seconds": 8.080000000000002,
+      "class_counts_native": [
+        50,
+        133,
+        47,
+        63,
+        79,
+        33
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        9,
+        13,
+        16,
+        6
+      ]
+    },
+    {
+      "index": 120,
+      "clip_id": "N101_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N101_1530.csv",
+      "source_sha256": "d9b1c77069b89aa8fdaa75a146029258872aad570ce74d8a089d757bdeea53a2",
+      "native_frames": 521,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.399999999999999,
+      "class_counts_native": [
+        49,
+        130,
+        54,
+        62,
+        147,
+        79
+      ],
+      "class_counts_evaluation": [
+        10,
+        26,
+        11,
+        12,
+        30,
+        16
+      ]
+    },
+    {
+      "index": 121,
+      "clip_id": "N103_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N103_1530.csv",
+      "source_sha256": "7e4188b4d2c795d0c2eda299b6ccfd59805a706df3acc493b07742dfaf99f062",
+      "native_frames": 555,
+      "evaluation_frames": 111,
+      "duration_seconds": 11.079999999999998,
+      "class_counts_native": [
+        50,
+        164,
+        65,
+        74,
+        149,
+        53
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        13,
+        15,
+        30,
+        10
+      ]
+    },
+    {
+      "index": 122,
+      "clip_id": "N111_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N111_1530.csv",
+      "source_sha256": "b656582117359dedd7bc525a300936daf43bcd1d3f0f1756c45762e0b43cf4f7",
+      "native_frames": 502,
+      "evaluation_frames": 101,
+      "duration_seconds": 10.02,
+      "class_counts_native": [
+        50,
+        134,
+        50,
+        73,
+        144,
+        51
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        10,
+        15,
+        29,
+        10
+      ]
+    },
+    {
+      "index": 123,
+      "clip_id": "N112_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N112_1530.csv",
+      "source_sha256": "673c759e498780d7733aaf3fd60b48726eda5941d6022420c500b1e124907478",
+      "native_frames": 472,
+      "evaluation_frames": 95,
+      "duration_seconds": 9.42,
+      "class_counts_native": [
+        50,
+        133,
+        55,
+        66,
+        149,
+        19
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        11,
+        13,
+        30,
+        4
+      ]
+    },
+    {
+      "index": 124,
+      "clip_id": "N113_1530",
+      "subject": "N",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/N113_1530.csv",
+      "source_sha256": "4f1ed75d4dcf6fa6bafc8ea393bbb060a55e8b750610cde010649d899717497b",
+      "native_frames": 484,
+      "evaluation_frames": 97,
+      "duration_seconds": 9.66,
+      "class_counts_native": [
+        50,
+        141,
+        54,
+        60,
+        162,
+        17
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        10,
+        12,
+        33,
+        3
+      ]
+    },
+    {
+      "index": 125,
+      "clip_id": "O001_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O001_1530.csv",
+      "source_sha256": "e678135f738f4c2022e61241f961b6774c5b072026d0e2f6dd0229e76b900bb1",
+      "native_frames": 482,
+      "evaluation_frames": 97,
+      "duration_seconds": 9.620000000000001,
+      "class_counts_native": [
+        50,
+        146,
+        42,
+        58,
+        124,
+        62
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        8,
+        12,
+        24,
+        13
+      ]
+    },
+    {
+      "index": 126,
+      "clip_id": "O002_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O002_1530.csv",
+      "source_sha256": "054eb52a70c8859d82e712bf8639bdf158b03d976478349c8562b0501159773c",
+      "native_frames": 486,
+      "evaluation_frames": 98,
+      "duration_seconds": 9.7,
+      "class_counts_native": [
+        50,
+        144,
+        34,
+        45,
+        166,
+        47
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        7,
+        9,
+        33,
+        10
+      ]
+    },
+    {
+      "index": 127,
+      "clip_id": "O011_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O011_1530.csv",
+      "source_sha256": "d72653d051523bd00822b2fd0605e0c70fc242f09ce9260c2e368a67864a3c0c",
+      "native_frames": 501,
+      "evaluation_frames": 101,
+      "duration_seconds": 9.999999999999998,
+      "class_counts_native": [
+        50,
+        146,
+        60,
+        47,
+        169,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        12,
+        9,
+        34,
+        6
+      ]
+    },
+    {
+      "index": 128,
+      "clip_id": "O012_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O012_1530.csv",
+      "source_sha256": "685373e152af29f9351dab9b3252ba953e74c877f1187338e516861488a022a5",
+      "native_frames": 493,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.84,
+      "class_counts_native": [
+        49,
+        168,
+        53,
+        48,
+        105,
+        70
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        10,
+        10,
+        21,
+        14
+      ]
+    },
+    {
+      "index": 129,
+      "clip_id": "O013_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O013_1530.csv",
+      "source_sha256": "bd9b715ac0fbba66bbbef4821425777b56984676fb6f4af9a8ce8ed93d694a77",
+      "native_frames": 457,
+      "evaluation_frames": 92,
+      "duration_seconds": 9.120000000000001,
+      "class_counts_native": [
+        50,
+        138,
+        50,
+        45,
+        156,
+        18
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        10,
+        9,
+        31,
+        4
+      ]
+    },
+    {
+      "index": 130,
+      "clip_id": "O101_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O101_1530.csv",
+      "source_sha256": "91facece5b30d071990a02467cb317059a8f45831d5ae62032937112269b75bb",
+      "native_frames": 545,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.880000000000003,
+      "class_counts_native": [
+        50,
+        163,
+        59,
+        60,
+        181,
+        32
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        12,
+        12,
+        36,
+        6
+      ]
+    },
+    {
+      "index": 131,
+      "clip_id": "O102_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O102_1530.csv",
+      "source_sha256": "3ec27cb977fd96b40ce47a50e97aea41e4d6995db3bc52b278c7379b0c0807c5",
+      "native_frames": 473,
+      "evaluation_frames": 95,
+      "duration_seconds": 9.440000000000001,
+      "class_counts_native": [
+        50,
+        135,
+        51,
+        50,
+        157,
+        30
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        11,
+        10,
+        31,
+        6
+      ]
+    },
+    {
+      "index": 132,
+      "clip_id": "O111_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O111_1530.csv",
+      "source_sha256": "ad73aad1ef8957c1040e10b6acfa945d9d8efb2094c39de74cb6942348521bc6",
+      "native_frames": 469,
+      "evaluation_frames": 94,
+      "duration_seconds": 9.36,
+      "class_counts_native": [
+        50,
+        135,
+        67,
+        41,
+        149,
+        27
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        14,
+        8,
+        30,
+        5
+      ]
+    },
+    {
+      "index": 133,
+      "clip_id": "O112_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O112_1530.csv",
+      "source_sha256": "27609e24548566943e86d92b158f171bc39d5a4a3d6d491fc8d9010d3b22ee13",
+      "native_frames": 459,
+      "evaluation_frames": 92,
+      "duration_seconds": 9.16,
+      "class_counts_native": [
+        50,
+        136,
+        53,
+        50,
+        138,
+        32
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        10,
+        10,
+        28,
+        6
+      ]
+    },
+    {
+      "index": 134,
+      "clip_id": "O113_1530",
+      "subject": "O",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/O113_1530.csv",
+      "source_sha256": "75a0f7e3e2f9f06d4fd5702159a2804d2c8b33c4235c27aff085655ca924e71e",
+      "native_frames": 496,
+      "evaluation_frames": 100,
+      "duration_seconds": 9.9,
+      "class_counts_native": [
+        49,
+        145,
+        68,
+        55,
+        157,
+        22
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        14,
+        11,
+        31,
+        5
+      ]
+    },
+    {
+      "index": 135,
+      "clip_id": "P001_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P001_1530.csv",
+      "source_sha256": "5ce49f5a938076edbc504b9585241fe82b19dea7b30bd6de591624329ea3a326",
+      "native_frames": 534,
+      "evaluation_frames": 107,
+      "duration_seconds": 10.659999999999998,
+      "class_counts_native": [
+        50,
+        168,
+        48,
+        39,
+        198,
+        31
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        10,
+        7,
+        40,
+        6
+      ]
+    },
+    {
+      "index": 136,
+      "clip_id": "P002_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P002_1530.csv",
+      "source_sha256": "6faa9a33c8e69f65075947a87602d8ce4ecc9e26361a8328b72a257b027db96e",
+      "native_frames": 561,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.2,
+      "class_counts_native": [
+        50,
+        175,
+        60,
+        47,
+        207,
+        22
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        12,
+        10,
+        41,
+        5
+      ]
+    },
+    {
+      "index": 137,
+      "clip_id": "P011_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P011_1530.csv",
+      "source_sha256": "266302a561c0b58baf968cd4ebda9f78b57aa52a55a34518ccfa8e62e96bfb9e",
+      "native_frames": 509,
+      "evaluation_frames": 102,
+      "duration_seconds": 10.16,
+      "class_counts_native": [
+        50,
+        137,
+        58,
+        54,
+        194,
+        16
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        11,
+        11,
+        39,
+        3
+      ]
+    },
+    {
+      "index": 138,
+      "clip_id": "P013_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P013_1530.csv",
+      "source_sha256": "0ab77d9d7ad951617c4538379d11af0e3f5a31a771e02283dac3f93c8f2d8104",
+      "native_frames": 542,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.82,
+      "class_counts_native": [
+        50,
+        159,
+        81,
+        45,
+        182,
+        25
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        16,
+        9,
+        37,
+        5
+      ]
+    },
+    {
+      "index": 139,
+      "clip_id": "P101_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P101_1530.csv",
+      "source_sha256": "e287f90570970d886ea68b100bcd302026454213c5c8328631b1b81f157df207",
+      "native_frames": 578,
+      "evaluation_frames": 116,
+      "duration_seconds": 11.540000000000001,
+      "class_counts_native": [
+        50,
+        178,
+        50,
+        105,
+        162,
+        33
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        10,
+        21,
+        32,
+        7
+      ]
+    },
+    {
+      "index": 140,
+      "clip_id": "P102_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P102_1530.csv",
+      "source_sha256": "da99d4676e280b491d8b615635ec70274f7d74f101e79b9ca4c01aa27e1ac91c",
+      "native_frames": 517,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.32,
+      "class_counts_native": [
+        49,
+        154,
+        65,
+        66,
+        168,
+        15
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        13,
+        13,
+        34,
+        3
+      ]
+    },
+    {
+      "index": 141,
+      "clip_id": "P103_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P103_1530.csv",
+      "source_sha256": "41ea636d5a297ec4150caf2f7b8a816c0638d0d0c50ecc1af1aed76659679a84",
+      "native_frames": 600,
+      "evaluation_frames": 120,
+      "duration_seconds": 11.98,
+      "class_counts_native": [
+        50,
+        187,
+        54,
+        82,
+        179,
+        48
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        11,
+        16,
+        36,
+        9
+      ]
+    },
+    {
+      "index": 142,
+      "clip_id": "P111_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P111_1530.csv",
+      "source_sha256": "5489af4b8198981c862297486c259503930837574323111855e358730225d04a",
+      "native_frames": 610,
+      "evaluation_frames": 122,
+      "duration_seconds": 12.18,
+      "class_counts_native": [
+        50,
+        173,
+        90,
+        63,
+        201,
+        33
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        18,
+        13,
+        40,
+        6
+      ]
+    },
+    {
+      "index": 143,
+      "clip_id": "P112_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P112_1530.csv",
+      "source_sha256": "c73d7a1671bfbb23a39e0d30f14191da630b760861d68f55d09368cb3db5eaea",
+      "native_frames": 617,
+      "evaluation_frames": 124,
+      "duration_seconds": 12.32,
+      "class_counts_native": [
+        50,
+        187,
+        72,
+        82,
+        187,
+        39
+      ],
+      "class_counts_evaluation": [
+        10,
+        38,
+        14,
+        17,
+        37,
+        8
+      ]
+    },
+    {
+      "index": 144,
+      "clip_id": "P113_1530",
+      "subject": "P",
+      "split": "validation",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/P113_1530.csv",
+      "source_sha256": "a60dfd6d2efef38f1de97caf096f6c21d154afe2a0d00e4b893cdcde24f0d447",
+      "native_frames": 603,
+      "evaluation_frames": 121,
+      "duration_seconds": 12.040000000000001,
+      "class_counts_native": [
+        50,
+        182,
+        70,
+        50,
+        223,
+        28
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        14,
+        10,
+        44,
+        6
+      ]
+    },
+    {
+      "index": 145,
+      "clip_id": "Q001_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q001_1530.csv",
+      "source_sha256": "996bc432bb4ce6cb26af68cc6c738a1b46bad2206abf5e6fe72dbb18996dbb21",
+      "native_frames": 528,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.54,
+      "class_counts_native": [
+        50,
+        159,
+        57,
+        59,
+        142,
+        61
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        12,
+        11,
+        29,
+        12
+      ]
+    },
+    {
+      "index": 146,
+      "clip_id": "Q002_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q002_1530.csv",
+      "source_sha256": "5eb6f324c8890de33912bee79410c3a6254c4e71b3bcbe7da1336740fbff90df",
+      "native_frames": 519,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.36,
+      "class_counts_native": [
+        50,
+        134,
+        73,
+        87,
+        146,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        15,
+        17,
+        29,
+        6
+      ]
+    },
+    {
+      "index": 147,
+      "clip_id": "Q003_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q003_1530.csv",
+      "source_sha256": "15e21250e8825341cb69b4501f6ced1f35aacb37a6fbf97ccc1f105c84c24aa7",
+      "native_frames": 524,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.46,
+      "class_counts_native": [
+        50,
+        136,
+        53,
+        68,
+        162,
+        55
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        10,
+        14,
+        32,
+        11
+      ]
+    },
+    {
+      "index": 148,
+      "clip_id": "Q011_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q011_1530.csv",
+      "source_sha256": "ca66c7d217a253166c5d0bdf3fc951989418b60308431653f3de7cf50ff41013",
+      "native_frames": 459,
+      "evaluation_frames": 92,
+      "duration_seconds": 9.159999999999998,
+      "class_counts_native": [
+        49,
+        152,
+        66,
+        71,
+        101,
+        20
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        13,
+        14,
+        20,
+        4
+      ]
+    },
+    {
+      "index": 149,
+      "clip_id": "Q012_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q012_1530.csv",
+      "source_sha256": "0cd2330aca4ae2c9f938c725082600bc35554ee5baf69fd1e1c06034a02b6c5f",
+      "native_frames": 457,
+      "evaluation_frames": 92,
+      "duration_seconds": 9.120000000000001,
+      "class_counts_native": [
+        50,
+        151,
+        66,
+        45,
+        129,
+        16
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        13,
+        9,
+        26,
+        3
+      ]
+    },
+    {
+      "index": 150,
+      "clip_id": "Q013_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q013_1530.csv",
+      "source_sha256": "d7c283d79e4d4d426846a9454722ef9baf2b114b4b713058d2b37635e0b39d24",
+      "native_frames": 516,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.3,
+      "class_counts_native": [
+        50,
+        176,
+        69,
+        44,
+        156,
+        21
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        13,
+        9,
+        31,
+        5
+      ]
+    },
+    {
+      "index": 151,
+      "clip_id": "Q101_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q101_1530.csv",
+      "source_sha256": "90ac8b9854b6e25f4e82161b6a38c1addd07ef877ca1b6748865c27e3f017149",
+      "native_frames": 587,
+      "evaluation_frames": 118,
+      "duration_seconds": 11.72,
+      "class_counts_native": [
+        50,
+        147,
+        75,
+        76,
+        177,
+        62
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        15,
+        15,
+        35,
+        13
+      ]
+    },
+    {
+      "index": 152,
+      "clip_id": "Q102_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q102_1530.csv",
+      "source_sha256": "1c411275e3fa988392bf02b237457208bfd52aac9645429cc23bf911d02e17c0",
+      "native_frames": 479,
+      "evaluation_frames": 96,
+      "duration_seconds": 9.559999999999999,
+      "class_counts_native": [
+        50,
+        105,
+        83,
+        81,
+        137,
+        23
+      ],
+      "class_counts_evaluation": [
+        10,
+        21,
+        17,
+        16,
+        28,
+        4
+      ]
+    },
+    {
+      "index": 153,
+      "clip_id": "Q103_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q103_1530.csv",
+      "source_sha256": "634d1788852d357eeb588238eed1a84447c6071ae586dbc04e6d42c2b5e9479d",
+      "native_frames": 566,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.3,
+      "class_counts_native": [
+        50,
+        148,
+        53,
+        107,
+        154,
+        54
+      ],
+      "class_counts_evaluation": [
+        10,
+        30,
+        11,
+        21,
+        31,
+        11
+      ]
+    },
+    {
+      "index": 154,
+      "clip_id": "Q111_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q111_1530.csv",
+      "source_sha256": "b64e7c305fc7e02dabba73268df0689459b832cef587f2ab540bedd8c2c34317",
+      "native_frames": 597,
+      "evaluation_frames": 120,
+      "duration_seconds": 11.92,
+      "class_counts_native": [
+        50,
+        167,
+        77,
+        73,
+        175,
+        55
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        15,
+        15,
+        35,
+        11
+      ]
+    },
+    {
+      "index": 155,
+      "clip_id": "Q112_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q112_1530.csv",
+      "source_sha256": "a8ab49daef334dc4b3c2077f71819efca32a6f6303b8c87c2269a47d5461da80",
+      "native_frames": 519,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.36,
+      "class_counts_native": [
+        50,
+        134,
+        73,
+        87,
+        146,
+        29
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        15,
+        17,
+        29,
+        6
+      ]
+    },
+    {
+      "index": 156,
+      "clip_id": "Q113_1530",
+      "subject": "Q",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/Q113_1530.csv",
+      "source_sha256": "164e9aa38ad754e81cc2c936ebeed2409c1faa0a163fc9a2c57888c20ae9b9ff",
+      "native_frames": 529,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.559999999999999,
+      "class_counts_native": [
+        50,
+        162,
+        42,
+        111,
+        134,
+        30
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        8,
+        22,
+        27,
+        6
+      ]
+    },
+    {
+      "index": 157,
+      "clip_id": "R001_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R001_1530.csv",
+      "source_sha256": "48c34570afb4b1a8d91451e998962908222e91156156f1ba27210ff8ef1bdaf7",
+      "native_frames": 567,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.32,
+      "class_counts_native": [
+        50,
+        158,
+        47,
+        86,
+        131,
+        95
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        9,
+        18,
+        26,
+        19
+      ]
+    },
+    {
+      "index": 158,
+      "clip_id": "R002_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R002_1530.csv",
+      "source_sha256": "24417dd8020e21e27b3413d6f8839e81eb2a6b476d7d2a83bebf61010216e5ef",
+      "native_frames": 606,
+      "evaluation_frames": 122,
+      "duration_seconds": 12.1,
+      "class_counts_native": [
+        50,
+        155,
+        68,
+        82,
+        175,
+        76
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        14,
+        16,
+        35,
+        16
+      ]
+    },
+    {
+      "index": 159,
+      "clip_id": "R003_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R003_1530.csv",
+      "source_sha256": "bfbde66ca5e5cd86e0d2de2b56a02214c9c424be41b20eb63e584b0a82adaa9c",
+      "native_frames": 656,
+      "evaluation_frames": 132,
+      "duration_seconds": 13.100000000000001,
+      "class_counts_native": [
+        50,
+        174,
+        56,
+        120,
+        147,
+        109
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        11,
+        24,
+        30,
+        22
+      ]
+    },
+    {
+      "index": 160,
+      "clip_id": "R011_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R011_1530.csv",
+      "source_sha256": "440db347acb335c19ff8e83013965e0410c4a5f33c9d993725a7ba05a19c4289",
+      "native_frames": 494,
+      "evaluation_frames": 99,
+      "duration_seconds": 9.86,
+      "class_counts_native": [
+        50,
+        133,
+        69,
+        71,
+        145,
+        26
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        14,
+        14,
+        29,
+        5
+      ]
+    },
+    {
+      "index": 161,
+      "clip_id": "R102_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R102_1530.csv",
+      "source_sha256": "34b36da188efc6115d4c98dd0cd62adde2d34a8e2743c3dbdae5b76be68deb77",
+      "native_frames": 628,
+      "evaluation_frames": 126,
+      "duration_seconds": 12.54,
+      "class_counts_native": [
+        50,
+        169,
+        59,
+        87,
+        186,
+        77
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        12,
+        17,
+        38,
+        15
+      ]
+    },
+    {
+      "index": 162,
+      "clip_id": "R111_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R111_1530.csv",
+      "source_sha256": "207302c80fb45d9a2bf80ff75279f9b3073f73e67cbbae8802f8c1c8ff88368b",
+      "native_frames": 619,
+      "evaluation_frames": 124,
+      "duration_seconds": 12.36,
+      "class_counts_native": [
+        50,
+        166,
+        55,
+        106,
+        166,
+        76
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        11,
+        21,
+        33,
+        15
+      ]
+    },
+    {
+      "index": 163,
+      "clip_id": "R112_1530",
+      "subject": "R",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/R112_1530.csv",
+      "source_sha256": "91a39734ed61d29f777980e9fdb42c34233a84503cce9ca5b7cd47ccf54b127a",
+      "native_frames": 620,
+      "evaluation_frames": 124,
+      "duration_seconds": 12.379999999999999,
+      "class_counts_native": [
+        50,
+        161,
+        69,
+        108,
+        138,
+        94
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        13,
+        22,
+        28,
+        18
+      ]
+    },
+    {
+      "index": 164,
+      "clip_id": "S001_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S001_1530.csv",
+      "source_sha256": "7ebf8ac023936948824510be6dec5c43f2327b91ca9b74319ccf07d28e5125e4",
+      "native_frames": 523,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.440000000000001,
+      "class_counts_native": [
+        50,
+        155,
+        54,
+        49,
+        133,
+        82
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        11,
+        10,
+        27,
+        16
+      ]
+    },
+    {
+      "index": 165,
+      "clip_id": "S002_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S002_1530.csv",
+      "source_sha256": "86e6e3f4c3255e32c5e704ffb0bd22a1ab3cf46b2cb50da99f749b959e3c3b6f",
+      "native_frames": 520,
+      "evaluation_frames": 104,
+      "duration_seconds": 10.380000000000003,
+      "class_counts_native": [
+        50,
+        136,
+        51,
+        65,
+        141,
+        77
+      ],
+      "class_counts_evaluation": [
+        10,
+        28,
+        10,
+        13,
+        28,
+        15
+      ]
+    },
+    {
+      "index": 166,
+      "clip_id": "S011_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S011_1530.csv",
+      "source_sha256": "2207b68525869a025cbaecc9e69d1004adbe14dca9f21d474956686115b3e5a4",
+      "native_frames": 525,
+      "evaluation_frames": 105,
+      "duration_seconds": 10.48,
+      "class_counts_native": [
+        50,
+        135,
+        60,
+        93,
+        121,
+        66
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        12,
+        19,
+        24,
+        13
+      ]
+    },
+    {
+      "index": 167,
+      "clip_id": "S013_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S013_1530.csv",
+      "source_sha256": "48bfd7d9ee0b63a184e69a1cce5f3ef488979931772b445dc03b598dd121eb44",
+      "native_frames": 528,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.54,
+      "class_counts_native": [
+        50,
+        157,
+        30,
+        95,
+        115,
+        81
+      ],
+      "class_counts_evaluation": [
+        10,
+        32,
+        6,
+        19,
+        23,
+        16
+      ]
+    },
+    {
+      "index": 168,
+      "clip_id": "S101_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S101_1530.csv",
+      "source_sha256": "66a23c736f2359af90fbcbefccb9be0567b24982e3c539a537d578dbc5ddef94",
+      "native_frames": 572,
+      "evaluation_frames": 115,
+      "duration_seconds": 11.42,
+      "class_counts_native": [
+        50,
+        171,
+        39,
+        63,
+        181,
+        68
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        7,
+        13,
+        36,
+        14
+      ]
+    },
+    {
+      "index": 169,
+      "clip_id": "S102_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S102_1530.csv",
+      "source_sha256": "8b0f774615e0b0b276dde644acef7477c17998067dcbff65e59963d0f29d33b1",
+      "native_frames": 567,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.319999999999999,
+      "class_counts_native": [
+        50,
+        162,
+        39,
+        71,
+        170,
+        75
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        8,
+        14,
+        34,
+        15
+      ]
+    },
+    {
+      "index": 170,
+      "clip_id": "S103_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S103_1530.csv",
+      "source_sha256": "3152d33efbad7a37d321662fd217bac0a12947320ea758bc7d54c83b783677a7",
+      "native_frames": 602,
+      "evaluation_frames": 121,
+      "duration_seconds": 12.02,
+      "class_counts_native": [
+        50,
+        162,
+        37,
+        56,
+        217,
+        80
+      ],
+      "class_counts_evaluation": [
+        10,
+        33,
+        7,
+        11,
+        44,
+        16
+      ]
+    },
+    {
+      "index": 171,
+      "clip_id": "S111_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S111_1530.csv",
+      "source_sha256": "0eab84d1a07d2a178f2da0c698701dca42c8b30f8b91fa5a7a0eac784f311e23",
+      "native_frames": 545,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.88,
+      "class_counts_native": [
+        50,
+        62,
+        41,
+        109,
+        175,
+        108
+      ],
+      "class_counts_evaluation": [
+        10,
+        13,
+        8,
+        22,
+        35,
+        21
+      ]
+    },
+    {
+      "index": 172,
+      "clip_id": "S112_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S112_1530.csv",
+      "source_sha256": "792155a90e81fbf3fa06be2f37799b57b6d5cfd7e5b295dfbd13035619fbe463",
+      "native_frames": 688,
+      "evaluation_frames": 138,
+      "duration_seconds": 13.739999999999998,
+      "class_counts_native": [
+        50,
+        184,
+        51,
+        124,
+        170,
+        109
+      ],
+      "class_counts_evaluation": [
+        10,
+        37,
+        10,
+        25,
+        34,
+        22
+      ]
+    },
+    {
+      "index": 173,
+      "clip_id": "S113_1530",
+      "subject": "S",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/S113_1530.csv",
+      "source_sha256": "cd1c7e94e8093fb8ba5df03d625ddcbe7b899c949b3af1f07ff54921ee588bb6",
+      "native_frames": 596,
+      "evaluation_frames": 120,
+      "duration_seconds": 11.9,
+      "class_counts_native": [
+        50,
+        168,
+        38,
+        92,
+        144,
+        104
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        8,
+        18,
+        29,
+        21
+      ]
+    },
+    {
+      "index": 174,
+      "clip_id": "T001_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T001_1530.csv",
+      "source_sha256": "d79656862080b003a27f3bcc6bf384138b3f13e17c4a2ff196ddd366d5b2572f",
+      "native_frames": 545,
+      "evaluation_frames": 109,
+      "duration_seconds": 10.880000000000003,
+      "class_counts_native": [
+        50,
+        131,
+        60,
+        52,
+        159,
+        93
+      ],
+      "class_counts_evaluation": [
+        10,
+        27,
+        12,
+        10,
+        32,
+        18
+      ]
+    },
+    {
+      "index": 175,
+      "clip_id": "T002_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T002_1530.csv",
+      "source_sha256": "55458f3bb5da694ae798667d9b2de990c3e84d96ec3aabbd1253e7ff6881324f",
+      "native_frames": 530,
+      "evaluation_frames": 106,
+      "duration_seconds": 10.58,
+      "class_counts_native": [
+        50,
+        151,
+        56,
+        63,
+        147,
+        63
+      ],
+      "class_counts_evaluation": [
+        10,
+        31,
+        11,
+        12,
+        30,
+        12
+      ]
+    },
+    {
+      "index": 176,
+      "clip_id": "T003_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T003_1530.csv",
+      "source_sha256": "94701b0dc2a5fc2a33ceab2c65bbf054bf6788cbc1e13c820b63617101e9466f",
+      "native_frames": 539,
+      "evaluation_frames": 108,
+      "duration_seconds": 10.76,
+      "class_counts_native": [
+        50,
+        142,
+        67,
+        62,
+        138,
+        80
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        13,
+        13,
+        27,
+        16
+      ]
+    },
+    {
+      "index": 177,
+      "clip_id": "T011_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T011_1530.csv",
+      "source_sha256": "d13e374f4c2beaaf2eab51fa0b08188ab51a4765cff173fbd564deff71718fc8",
+      "native_frames": 591,
+      "evaluation_frames": 119,
+      "duration_seconds": 11.799999999999999,
+      "class_counts_native": [
+        50,
+        179,
+        59,
+        101,
+        127,
+        75
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        12,
+        20,
+        26,
+        15
+      ]
+    },
+    {
+      "index": 178,
+      "clip_id": "T012_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T012_1530.csv",
+      "source_sha256": "f5801d75a74bd0750b4ca6b52ca72001cad880dfa238dbbdc571515d60cfa81f",
+      "native_frames": 577,
+      "evaluation_frames": 116,
+      "duration_seconds": 11.52,
+      "class_counts_native": [
+        50,
+        169,
+        56,
+        87,
+        140,
+        75
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        11,
+        18,
+        28,
+        15
+      ]
+    },
+    {
+      "index": 179,
+      "clip_id": "T013_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T013_1530.csv",
+      "source_sha256": "c1148957fe530f03f44766632406cb122fb026e2603e85eaac002f4a025d449c",
+      "native_frames": 562,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.219999999999999,
+      "class_counts_native": [
+        50,
+        179,
+        59,
+        85,
+        139,
+        50
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        12,
+        17,
+        28,
+        10
+      ]
+    },
+    {
+      "index": 180,
+      "clip_id": "T101_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T101_1530.csv",
+      "source_sha256": "8ec87ffe38256d6d98421bbe05a2be4fbf454d676bbb113c5d5057938d76145c",
+      "native_frames": 659,
+      "evaluation_frames": 132,
+      "duration_seconds": 13.159999999999998,
+      "class_counts_native": [
+        50,
+        265,
+        40,
+        69,
+        182,
+        53
+      ],
+      "class_counts_evaluation": [
+        10,
+        53,
+        8,
+        14,
+        37,
+        10
+      ]
+    },
+    {
+      "index": 181,
+      "clip_id": "T102_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T102_1530.csv",
+      "source_sha256": "986704957d5b67d879cfa6213e3c1b2ff603aa12e2075fe6d1c4eba1c86c0f9d",
+      "native_frames": 569,
+      "evaluation_frames": 114,
+      "duration_seconds": 11.360000000000001,
+      "class_counts_native": [
+        50,
+        173,
+        36,
+        59,
+        189,
+        62
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        7,
+        12,
+        38,
+        12
+      ]
+    },
+    {
+      "index": 182,
+      "clip_id": "T103_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T103_1530.csv",
+      "source_sha256": "5c1b208c3bcb6bfc2c72a763703616ed6eb8dde803d0e0d059c22ee80197a06c",
+      "native_frames": 582,
+      "evaluation_frames": 117,
+      "duration_seconds": 11.620000000000001,
+      "class_counts_native": [
+        50,
+        167,
+        42,
+        71,
+        195,
+        57
+      ],
+      "class_counts_evaluation": [
+        10,
+        34,
+        8,
+        14,
+        39,
+        12
+      ]
+    },
+    {
+      "index": 183,
+      "clip_id": "T111_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T111_1530.csv",
+      "source_sha256": "d96a87ce7db4a950172666df9abbd90a4803a8cc5920c72b7bc956b2159fe9fe",
+      "native_frames": 606,
+      "evaluation_frames": 122,
+      "duration_seconds": 12.1,
+      "class_counts_native": [
+        50,
+        180,
+        48,
+        66,
+        193,
+        69
+      ],
+      "class_counts_evaluation": [
+        10,
+        36,
+        10,
+        13,
+        39,
+        14
+      ]
+    },
+    {
+      "index": 184,
+      "clip_id": "T112_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T112_1530.csv",
+      "source_sha256": "1b4e849acab778329a9adf9f8f7bd922a8338070226866f075500c1870a8e56f",
+      "native_frames": 638,
+      "evaluation_frames": 128,
+      "duration_seconds": 12.740000000000002,
+      "class_counts_native": [
+        50,
+        175,
+        57,
+        58,
+        187,
+        111
+      ],
+      "class_counts_evaluation": [
+        10,
+        35,
+        12,
+        11,
+        38,
+        22
+      ]
+    },
+    {
+      "index": 185,
+      "clip_id": "T113_1530",
+      "subject": "T",
+      "split": "test",
+      "source_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/Raw_data/T113_1530.csv",
+      "source_sha256": "a9861662a0c2fae4c60ef4f7bf6afabf514b6f4a61143d9d51b1c82a837606a6",
+      "native_frames": 561,
+      "evaluation_frames": 113,
+      "duration_seconds": 11.2,
+      "class_counts_native": [
+        50,
+        144,
+        34,
+        84,
+        155,
+        94
+      ],
+      "class_counts_evaluation": [
+        10,
+        29,
+        7,
+        17,
+        31,
+        19
+      ]
+    }
+  ],
+  "native_frames": 100579,
+  "evaluation_frames": 20189,
+  "total_duration_seconds": 2007.86,
+  "class_counts_native": [
+    9284,
+    30021,
+    10051,
+    12398,
+    30260,
+    8565
+  ],
+  "subjects": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+  ],
+  "splits": {
+    "train": {
+      "trials": 106,
+      "native_frames": 57565,
+      "evaluation_frames": 11555,
+      "class_counts_evaluation": [
+        1060,
+        3548,
+        1115,
+        1389,
+        3562,
+        881
+      ]
+    },
+    "validation": {
+      "trials": 39,
+      "native_frames": 19919,
+      "evaluation_frames": 3998,
+      "class_counts_evaluation": [
+        390,
+        1221,
+        445,
+        448,
+        1211,
+        283
+      ]
+    },
+    "test": {
+      "trials": 41,
+      "native_frames": 23095,
+      "evaluation_frames": 4636,
+      "class_counts_evaluation": [
+        410,
+        1304,
+        451,
+        647,
+        1278,
+        546
+      ]
+    }
+  }
+}

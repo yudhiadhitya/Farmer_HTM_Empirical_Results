@@ -1,0 +1,9 @@
+Starting full-HTM unit sensitivity seed 7
+HTM no_sp=False finished training pass 1
+HTM no_sp=False finished training pass 2
+HTM no_sp=False finished training pass 3
+HTM sensitivity seed 7, alpha 0.0: validation macro-F1 0.17657884
+HTM sensitivity seed 7, alpha 0.1: validation macro-F1 0.17769486
+HTM sensitivity seed 7, alpha 0.3: validation macro-F1 0.17940832
+Completed HTM auxiliary weight 0 seed 7
+Completed HTM auxiliary weight 0.1 seed 7

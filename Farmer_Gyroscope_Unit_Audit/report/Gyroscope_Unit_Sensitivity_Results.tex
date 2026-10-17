@@ -1,0 +1,52 @@
+
+\subsubsection{Sensitivity to gyroscope-unit interpretation}
+
+Recomputing the README-convention quaternion features reproduced all
+archived float32 arrays exactly. Under the alternative interpretation,
+the same source values were treated as degrees per second and converted
+to radians per second. Let $\mathbf q_t^{(R)}$ and $\mathbf q_t^{(D)}$
+denote the unit quaternions estimated under the README and converted
+CSV interpretations, respectively. The orientation difference in radians
+was calculated as $2\arccos(\lvert(\mathbf q_t^{(R)})^\top\mathbf q_t^{(D)}\rvert)$,
+with numerical clipping of the absolute inner product to $[0,1]$.
+Differences were converted to degrees for reporting.
+At the 4,636 held-out endpoints, this difference had a median of
+$35.04^\circ$ and a 95th percentile of $177.38^\circ$.
+These values describe differences between two orientation estimates;
+orientation ground truth was unavailable.
+
+Table~\ref{tab:gyro_unit_sensitivity} compares the archived primary
+fits with models refitted under the alternative interpretation using
+the same protocol and seeds. Validation selection was repeated within
+each interpretation. The elapsed-time-only control, which does not use
+sensor features, produced identical predictions under both scenarios.
+
+\begin{table}[htbp]
+\caption{Sensitivity of test macro-F1 to the interpretation of released
+gyroscope values. Entries are mean $\pm$ sample SD across three model
+seeds (7, 42, and 2026) on one fixed participant split. The difference is the converted
+deg/s scenario minus the README rad/s scenario, in percentage points.}
+\label{tab:gyro_unit_sensitivity}
+\centering
+\small
+\begin{tabular}{lrrr}
+\hline
+Model & README rad/s (\%) & CSV deg/s (\%) & Difference (pp) \\
+\hline
+Full HTM & $23.58 \pm 0.18$ & $14.47 \pm 0.98$ & $-9.11$ \\
+Logistic regression & $42.20 \pm 0.00$ & $16.75 \pm 0.00$ & $-25.45$ \\
+CNN & $75.67 \pm 1.01$ & $36.65 \pm 0.70$ & $-39.02$ \\
+LSTM & $74.47 \pm 6.55$ & $28.16 \pm 5.69$ & $-46.31$ \\
+Transformer & $89.29 \pm 0.18$ & $82.27 \pm 1.81$ & $-7.02$ \\
+Elapsed time only & $79.86 \pm 0.26$ & $79.86 \pm 0.26$ & $+0.00$ \\
+\hline
+\end{tabular}
+\end{table}
+
+The results demonstrate sensitivity to the unit interpretation.
+Classification performance does not establish the true physical unit,
+and the conflicting source metadata remain a limitation pending
+clarification from the dataset creators. The primary results retain the
+explicit README convention. This sensitivity comparison does not
+validate orientation accuracy or generalization beyond the fixed
+participant split.

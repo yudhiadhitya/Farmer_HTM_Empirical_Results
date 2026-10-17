@@ -1,0 +1,49 @@
+{
+  "reference_version": "1.0.0",
+  "status": "proposed reference setup; no farmer-data evaluation",
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "htm_version": "2.2.0",
+    "htm_commit": "96309f4969b1488ede172b3eec649dcb9702557d"
+  },
+  "declared_workstation": {
+    "cpu": "Intel Core i9-9900K",
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "ram_gb": 32,
+    "execution_device": "CPU",
+    "source": "author-provided hardware; reference not benchmarked on this workstation"
+  },
+  "target_hz": 50.0,
+  "max_gap_seconds": 0.1,
+  "seed": 42,
+  "encoder": {"size_per_component": 512, "activeBits": 21, "resolution": 0.01},
+  "sp": {
+    "inputDimensions": [2048], "columnDimensions": [2048],
+    "potentialRadius": 2048, "potentialPct": 0.5,
+    "globalInhibition": true, "localAreaDensity": 0.01953125,
+    "numActiveColumnsPerInhArea": 0, "stimulusThreshold": 0,
+    "synPermInactiveDec": 0.008, "synPermActiveInc": 0.05,
+    "synPermConnected": 0.1, "minPctOverlapDutyCycle": 0.001,
+    "dutyCyclePeriod": 1000, "boostStrength": 0.0,
+    "seed": 42, "spVerbosity": 0, "wrapAround": false
+  },
+  "tm": {
+    "columnDimensions": [2048], "cellsPerColumn": 32,
+    "activationThreshold": 13, "initialPermanence": 0.21,
+    "connectedPermanence": 0.5, "minThreshold": 10,
+    "maxNewSynapseCount": 20, "permanenceIncrement": 0.1,
+    "permanenceDecrement": 0.1, "predictedSegmentDecrement": 0.0,
+    "seed": 42, "maxSegmentsPerCell": 128,
+    "maxSynapsesPerSegment": 64, "checkInputs": true,
+    "externalPredictiveInputs": 0
+  },
+  "training": {
+    "htm_passes": 3, "readout_epochs": 20, "learning_rate": 0.01,
+    "optimizer": "SGD", "batch_size": 1,
+    "auxiliary_weights": [0.0, 0.1, 0.3],
+    "feature_scaling": "active indices divided by active-bit count",
+    "readout": "shared linear softmax for active and predictive TM cells"
+  }
+}

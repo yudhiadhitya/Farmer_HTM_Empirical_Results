@@ -1,0 +1,14 @@
+The README distributed with the CERTH dataset \cite{ref12} specifies
+angular velocity in radians per second, whereas the CSV gyroscope
+column names contain degree-per-second suffixes. The primary analysis
+followed the README and supplied the released numeric values directly
+to the AHRS 0.4.0 Madgwick filter, which expects radians per second
+\cite{ref13}. A sensitivity analysis evaluated the alternative CSV-header
+interpretation by multiplying the same gyroscope values by $\pi/180$
+before orientation estimation. Both scenarios used 50~Hz IMU updates,
+filter gain $0.033$, and no magnetometer input. Initialization,
+quaternion normalization and sign continuity, participant groups,
+evaluation endpoints, model architectures, seeds, and training and
+validation-selection rules were unchanged. Each alternative full-HTM
+backbone was trained afresh. The primary convention was determined
+from the dataset README before comparing performance.

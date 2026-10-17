@@ -1,0 +1,8 @@
+# Sub-activity mapping
+
+0: "Standing"
+1: "Walking (without crate)"
+2: "Bending"
+3: "Lifting create"
+4: "Walking (with crate)"
+5: "Placing crate"

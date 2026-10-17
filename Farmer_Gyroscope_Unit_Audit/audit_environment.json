@@ -1,0 +1,49 @@
+{
+  "recorded_utc": "2026-10-16T22:57:38.021476+00:00",
+  "python": "3.12.14",
+  "os": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "cpu": "AMD EPYC 9V74 80-Core Processor",
+  "execution_device": "CPU",
+  "logical_cpu_affinity": 9,
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "torch": "2.5.1+cpu",
+    "ahrs": "0.4.0",
+    "htm": "2.2.0",
+    "pybind11": "3.1.0",
+    "cmake": "3.31.6",
+    "scikit-build-core": "1.1.1"
+  },
+  "htm_source_commit": "96309f4969b1488ede172b3eec649dcb9702557d",
+  "compiler": "GNU C/C++ 13 (system gcc/g++)",
+  "numerical_htm_source_modified": false,
+  "thread_limits": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "2",
+    "OMP_NUM_THREADS": "2"
+  },
+  "target_author_workstation_benchmarked": false,
+  "reference_fit_runtime": "See original/empirical_runs/* result.json runtime blocks",
+  "alternative_fit_runtime": "See work/runs_deg_per_second/* result.json runtime blocks",
+  "statistical_scope": "Three model seeds, one fixed participant split; no significance or latency claims",
+  "code_and_protocol_verification": {
+    "unchanged_numeric_model_configuration": true,
+    "unchanged_training_and_selection_rules": true,
+    "unchanged_participants_and_endpoints": true,
+    "working_protocol_changes": [
+      "experiment_version",
+      "orientation.gyro_units",
+      "unit_sensitivity"
+    ],
+    "htm_numeric_source_git_diff_empty": true,
+    "original_code_sha256": {
+      "common.py": "f655b5760c8cdd254240c7bb2860afd2a512b3444677bcfa570b5075671c3ffa",
+      "run_baselines.py": "b695f15e2fca8da93ab8d14a5b35ffda3d4749f8d31642bc8f13085b705383f5",
+      "run_htm.py": "ce52bb751574de3afd44691fdfd5fb0a00d3e5093b363c6b2359e66010c721a7",
+      "reference_model.py": "271552ff434e2c54bdd13ea1114c73741957dc89ee360c8cc9c8ec7342c91b36",
+      "reference_config.json": "1a79e85b5bd29fb0c88c3b00eb35ff0460b0bd9a04d6c86ecad02ab9723eea25"
+    }
+  }
+}

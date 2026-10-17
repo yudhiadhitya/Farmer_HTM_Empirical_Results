@@ -1,0 +1,59 @@
+{
+  "institutional_release": "https://ibo.certh.gr/open-datasets/",
+  "source_paper_doi": "10.3390/app11052188",
+  "archive_sha256": "401a48da1ad82830b932bf69cc3fc09e99cb41bd7f5849fc3dd8c01bea29378a",
+  "readme_member": "Human-activity-recognition-for-human-robot-interaction-in-agriculture/Human-activity-recognition-for-human-robot-interaction-in-agriculture/README.txt",
+  "readme_sha256": "aa24c68601c60244dc4cddc7c3159be9b9af7dde997562eaddeb2632e3711c19",
+  "readme_unit_statement": "Angular velocity is measured in rad/s.",
+  "readme_matches_included_copy_exactly": true,
+  "csv_headers_in_selected_chest_recordings": [
+    [
+      "time_s",
+      "time_new",
+      "ax_m/s/s",
+      "ay_m/s/s",
+      "az_m/s/s",
+      "gx_deg/s",
+      "gy_deg/s",
+      "gz_deg/s",
+      "mx_microT",
+      "my_microT",
+      "mz_microT",
+      "condition"
+    ],
+    [
+      "time_s",
+      "time_new",
+      "ax_m/s/s",
+      "ay_m/s/s",
+      "az_m/s/s",
+      "gx_deg/s",
+      "gy_deg/s",
+      "gz_deg/s",
+      "mx_microT",
+      "my_microT",
+      "mz_microT",
+      "highg_ax_m/s/s",
+      "highg_ay_m/s/s",
+      "highg_az_m/s/s",
+      "condition"
+    ]
+  ],
+  "chest_recordings_with_degree_per_second_headers": 186,
+  "filter": {
+    "package": "AHRS",
+    "version": "0.4.0",
+    "api": "Madgwick",
+    "gyro_input_unit": "rad/s",
+    "pinned_docstring_confirms_unit": true,
+    "implementation_file_sha256": "bf0bed107769824ce01688ee4625fda5e0015549b0bc4fc22836f4261dcb2795",
+    "documentation": "https://ahrs.readthedocs.io/en/latest/filters/madgwick.html"
+  },
+  "sensor_documentation": {
+    "url": "https://vicon-help.atlassian.net/wiki/spaces/LMAC/pages/8880610/Capture.U+Education+-+Learn+More",
+    "hardware_gyroscope_range": "+/-2000 degrees/s",
+    "inference_limit": "A hardware measurement range does not establish units in the released numeric arrays."
+  },
+  "decision": "Retain the archived README rad/s convention as primary; compare the conflicting CSV deg/s convention after pi/180 conversion.",
+  "remaining_uncertainty": "No independent orientation ground truth or source-author clarification establishes the physical source unit."
+}

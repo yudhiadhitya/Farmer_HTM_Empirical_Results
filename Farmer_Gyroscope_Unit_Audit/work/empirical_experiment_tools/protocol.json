@@ -1,0 +1,113 @@
+{
+  "experiment_version": "1.0.0-unit-sensitivity",
+  "dataset": "CERTH agricultural material handling, author-released original recordings",
+  "paper_doi": "10.3390/app11052188",
+  "source_zip_sha256": "401a48da1ad82830b932bf69cc3fc09e99cb41bd7f5849fc3dd8c01bea29378a",
+  "sensor": "chest, ID 1530",
+  "native_hz": 50,
+  "evaluation_stride": 5,
+  "evaluation_rate_hz": 10,
+  "train_subjects": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "validation_subjects": [
+    "M",
+    "N",
+    "O",
+    "P"
+  ],
+  "test_subjects": [
+    "Q",
+    "R",
+    "S",
+    "T"
+  ],
+  "classes": [
+    "Standing",
+    "Walking without crate",
+    "Bending",
+    "Lifting crate",
+    "Walking with crate",
+    "Placing crate"
+  ],
+  "orientation": {
+    "implementation": "AHRS 0.4.0 Madgwick IMU",
+    "gain": 0.033,
+    "gyro_units": "sensitivity hypothesis: CSV values in deg/s; converted to rad/s by pi/180",
+    "magnetometer_used": false,
+    "initialization": "first accelerometer sample; reset for each recording"
+  },
+  "model_seeds": [
+    7,
+    42,
+    2026
+  ],
+  "encoder_seeds": [
+    43,
+    44,
+    45,
+    46
+  ],
+  "htm_training_passes": 3,
+  "readout_epochs": 20,
+  "readout_learning_rate": 0.01,
+  "readout_optimizer": "sample-wise SGD without momentum or weight decay",
+  "auxiliary_weights": [
+    0.0,
+    0.1,
+    0.3
+  ],
+  "auxiliary_horizon_native_frames": 1,
+  "baselines": [
+    "Logistic regression",
+    "Causal CNN",
+    "Unidirectional LSTM",
+    "Causal Transformer"
+  ],
+  "logistic_C_candidates": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "time_control": {
+    "model": "Random forest",
+    "features": "elapsed seconds only; no total-duration normalization",
+    "trees": 200,
+    "max_depth": 8,
+    "min_samples_leaf": 30
+  },
+  "neural_baseline_max_epochs": 20,
+  "neural_baseline_patience": 5,
+  "neural_baseline_optimizer": "Adam",
+  "neural_baseline_learning_rate": 0.001,
+  "neural_baseline_batch_trials": 4,
+  "neural_baseline_hidden_width": 32,
+  "neural_baseline_class_weighting": "none",
+  "selection_metric": "validation macro-F1 over all six classes; never test scores",
+  "module_ablations": [
+    "No Spatial Pooler (same TM dimensions, encoder bits directly)",
+    "No Temporal Memory (same fitted SP and a current-label readout)",
+    "No auxiliary loss (weight zero; same fitted backbone)"
+  ],
+  "transition_window_seconds": 0.5,
+  "metric_aggregation": "pooled held-out frames; macro precision/recall/F1; zero_division=0; sample-class probability MAE/MSE/RMSE",
+  "reporting": "mean and sample standard deviation over three model seeds; a single pre-specified participant split",
+  "claims_scope": "new public-data evaluation; no newly collected cohort; no target-workstation latency benchmark",
+  "unit_sensitivity": {
+    "reference": "archived rad/s README interpretation, no conversion",
+    "alternative": "deg/s CSV-header interpretation, pi/180 conversion",
+    "changes": "gyro input scale only; same splits, filter, endpoints, models, seeds, training and validation selection",
+    "unit_choice_not_selected_by_test_performance": true
+  }
+}

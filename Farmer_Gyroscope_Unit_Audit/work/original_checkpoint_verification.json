@@ -1,0 +1,58 @@
+{
+  "original_neural_checkpoint_verification": [
+    {
+      "model": "CNN",
+      "seed": 7,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "CNN",
+      "seed": 42,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "CNN",
+      "seed": 2026,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "LSTM",
+      "seed": 7,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "LSTM",
+      "seed": 42,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "LSTM",
+      "seed": 2026,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "Transformer",
+      "seed": 7,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "Transformer",
+      "seed": 42,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    },
+    {
+      "model": "Transformer",
+      "seed": 2026,
+      "maximum_probability_difference": 0.0,
+      "all_predicted_labels_identical": true
+    }
+  ]
+}
