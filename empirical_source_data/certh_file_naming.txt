@@ -1,0 +1,17 @@
+# Experiments - File naming
+
+PTTT_SSSS
+
+P: identifier for the subject conducting the experiment
+
+TTT: experiment identifier
+	first T denotes the box content (0: empty, 1: full)
+	second T denotes the loading height(0: Husky (low), 1: Thorvald (high))
+	third T denotes the attempt of recording the experiment (1-3)
+
+SSSS: sensor identifier
+	1530: chest
+	1561: cervix
+	1567: lumbar region
+	1682: right wrist
+	1585: left wrist

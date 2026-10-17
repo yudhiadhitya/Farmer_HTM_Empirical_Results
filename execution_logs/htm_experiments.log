@@ -1,0 +1,34 @@
+Cached deterministic orientation SDRs; labels were not used.
+Starting HTM and ablation runs for seed 7
+HTM no_sp=False finished training pass 1
+HTM no_sp=False finished training pass 2
+HTM no_sp=False finished training pass 3
+HTM seed 7 alpha 0.0 validation_macro_f1=0.24714
+HTM seed 7 alpha 0.1 validation_macro_f1=0.24718
+HTM seed 7 alpha 0.3 validation_macro_f1=0.24352
+Completed HTM auxiliary weight 0 seed 7
+Completed HTM auxiliary weight 0.1 seed 7
+Completed HTM auxiliary weight 0.3 seed 7
+Completed Full HTM (validation-selected weight) seed 7
+Completed Without Temporal Memory seed 7
+HTM no_sp=True finished training pass 1
+HTM no_sp=True finished training pass 2
+HTM no_sp=True finished training pass 3
+Completed Without Spatial Pooler seed 7
+Starting HTM and ablation runs for seed 42
+HTM no_sp=False finished training pass 1
+HTM no_sp=False finished training pass 2
+HTM no_sp=False finished training pass 3
+HTM seed 42 alpha 0.0 validation_macro_f1=0.26509
+HTM seed 42 alpha 0.1 validation_macro_f1=0.26387
+HTM seed 42 alpha 0.3 validation_macro_f1=0.26094
+Completed HTM auxiliary weight 0 seed 42
+Completed HTM auxiliary weight 0.1 seed 42
+Completed HTM auxiliary weight 0.3 seed 42
+Completed Full HTM (validation-selected weight) seed 42
+Completed Without Temporal Memory seed 42
+HTM no_sp=True finished training pass 1
+HTM no_sp=True finished training pass 2
+HTM no_sp=True finished training pass 3
+Completed Without Spatial Pooler seed 42
+Starting HTM and ablation runs for seed 2026

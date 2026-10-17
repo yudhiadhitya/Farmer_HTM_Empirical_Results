@@ -1,0 +1,16 @@
+Starting HTM and ablation runs for seed 2026
+HTM no_sp=False finished training pass 1
+HTM no_sp=False finished training pass 2
+HTM no_sp=False finished training pass 3
+HTM seed 2026 alpha 0.0 validation_macro_f1=0.24683
+HTM seed 2026 alpha 0.1 validation_macro_f1=0.24635
+HTM seed 2026 alpha 0.3 validation_macro_f1=0.24387
+Completed HTM auxiliary weight 0 seed 2026
+Completed HTM auxiliary weight 0.1 seed 2026
+Completed HTM auxiliary weight 0.3 seed 2026
+Completed Full HTM (validation-selected weight) seed 2026
+Completed Without Temporal Memory seed 2026
+HTM no_sp=True finished training pass 1
+HTM no_sp=True finished training pass 2
+HTM no_sp=True finished training pass 3
+Completed Without Spatial Pooler seed 2026

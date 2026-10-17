@@ -1,0 +1,76 @@
+{
+  "native_frames": 100579,
+  "evaluation_frames": 20189,
+  "total_duration_seconds": 2007.86,
+  "class_counts_native": [
+    9284,
+    30021,
+    10051,
+    12398,
+    30260,
+    8565
+  ],
+  "subjects": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+  ],
+  "splits": {
+    "train": {
+      "trials": 106,
+      "native_frames": 57565,
+      "evaluation_frames": 11555,
+      "class_counts_evaluation": [
+        1060,
+        3548,
+        1115,
+        1389,
+        3562,
+        881
+      ]
+    },
+    "validation": {
+      "trials": 39,
+      "native_frames": 19919,
+      "evaluation_frames": 3998,
+      "class_counts_evaluation": [
+        390,
+        1221,
+        445,
+        448,
+        1211,
+        283
+      ]
+    },
+    "test": {
+      "trials": 41,
+      "native_frames": 23095,
+      "evaluation_frames": 4636,
+      "class_counts_evaluation": [
+        410,
+        1304,
+        451,
+        647,
+        1278,
+        546
+      ]
+    }
+  }
+}
