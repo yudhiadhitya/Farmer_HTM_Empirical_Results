@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
+torch==2.5.1+cpu
+ahrs==0.4.0
+matplotlib==3.10.8
+sympy==1.13.1
+mpmath==1.3.0
+# htm.core is installed from the exact source commit in README.md.
